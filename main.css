@@ -1,0 +1,9 @@
+body {
+  padding-top: 4rem;
+}
+
+.attendance-chart-container {
+  position: relative;
+  height: 90vh;
+  width: 100%;
+}
