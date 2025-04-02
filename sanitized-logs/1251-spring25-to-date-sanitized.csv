@@ -1,0 +1,97 @@
+﻿Data Export Generated on Wed Apr 02 13:58:15 PDT 2025,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Survey ID 12435362,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dashboard Name My Dashboard,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Response ID,Response Status,IP Address,Timestamp (mm/dd/yyyy),Duplicate,Time Taken to Complete (Seconds),Seq. Number,External Reference,shift,lift,tift,biffed,Custom Variable 5,Respondent Email,Email List,Country Code,Region,What is the date of the shift you are reporting for?,Please choose the day of the week.,Please enter the time slot.,Approximately how many times did you help a student during your shift?,How many CS 149 students?,How many CS 159 Students?,How many CS 227 Students?,How many CS 240 Students?,How many CS 261 Students?,Comment on how long TAs generally spent with a given student during your shift.,What were the most common problems being addressed. Ideally these would be prefaced with the course number.
+188889303,Completed,134.126.141.39,1/27/25 16:56,0,853,1,,,,,,,,,US,VA,1/27/25,Monday,5-7 pm,2,0,0,0,0,2,10-15 minutes,261 - Header files and figuring out the purpose of the makefile
+188969764,Completed,134.126.253.69,1/28/25 17:10,0,327,1,,,,,,,,,US,VA,1/28/25,Tuesday,5-7 pm,3,3,0,0,0,0,"Generally a good amount of time, between 5-10 minutes ","149:generally docstring, pep8, spacing/formatting"
+188972030,Completed,134.126.253.69,1/28/25 18:59,0,629,1,,,,,,,,,US,VA,1/28/25,Tuesday,7-9 pm,4,4,0,0,0,0,"Generally a good amount of time, between 5-15 minutes ","149 - understanding basic functions, operations on strings"
+189031330,Completed,73.99.62.213,1/29/25 20:59,0,32,1,,,,,,,,,US,VA,1/29/25,Wednesday,9-11 pm,0,0,0,0,0,0,None,None
+189088395,Completed,134.126.113.75,1/30/25 17:01,0,79,1,,,,,,,,,US,VA,1/30/25,Thursday,5-7 pm,1,0,1,0,0,0,15 minutes,159 - generic types
+189089915,Completed,45.134.140.5,1/30/25 17:54,0,275,1,,,,,,,,,US,GA,1/27/25,Monday,7-9 pm,7,0,1,0,0,6,5-10 minutes ,"261: Small C nuances, bash tricks for 261, spec parsing 159: Gradescope package issue "
+189091741,Completed,134.126.113.40,1/30/25 19:17,0,897,1,,,,,,,,,US,VA,1/30/25,Thursday,7-9 pm,0,0,0,0,0,0,No students today,None
+189158920,Completed,134.126.253.69,2/2/25 14:58,0,286,1,,,,,,,,,US,VA,2/2/25,Sunday,3-5 pm Sunday only,2,0,0,0,2,0,5-10 minutes,240 - not strict enough error testing
+189159653,Completed,134.126.113.123,2/2/25 17:01,0,41,1,,,,,,,,,US,VA,2/2/25,Sunday,5-7 pm,0,0,0,0,0,0,,
+189160291,Completed,134.126.113.86,2/2/25 19:04,0,58,1,,,,,,,,,US,VA,2/2/25,Sunday,7-9 pm,2,0,0,0,0,2,5 minutes,261: understanding getopt
+189226752,Completed,134.126.253.69,2/4/25 17:04,0,309,1,,,,,,,,,US,VA,2/4/25,Tuesday,5-7 pm,2,1,0,0,0,1,"NOT Saying this is a issue but Ellona did spend significant chunk of time with a single student today, I didn't say anything cause it was busy at all.","149 - not understand how to read gradescope errors 261 - wrong directory, misunderstanding specs"
+189228781,Completed,134.126.253.69,2/4/25 19:05,0,282,1,,,,,,,,,US,VA,2/4/25,Tuesday,7-9 pm,2,0,0,0,2,0,"Generally a good amount of time, between 5-10 minutes ",240- errors with generics
+189230829,Completed,75.102.137.39,2/4/25 21:55,0,62,1,,,,,,,,,US,VA,2/3/25,Monday,5-7 pm,2,0,2,0,0,0,5-10 minutes,159 - Just a directory structure needing to be fixed in order for submissions to work
+189230841,Completed,75.102.137.39,2/4/25 21:56,0,56,1,,,,,,,,,US,VA,2/4/25,Tuesday,9-11 pm,2,0,0,0,2,0,5-10 minutes,240 - String formating
+189279378,Completed,134.126.113.94,2/5/25 17:07,0,241,1,,,,,,,,,US,VA,1/29/25,Wednesday,5-7 pm,1,0,1,0,0,0,,
+189279378,Completed,134.126.113.94,2/5/25 17:07,0,241,2,,,,,,,,,US,VA,,Wednesday,7-9 pm,,,,,,,,
+189279393,Completed,134.126.113.94,2/5/25 17:09,0,35,1,,,,,,,,,US,VA,2/5/25,Wednesday,5-7 pm,1,0,0,0,1,0,10 mins,How to do remove
+189282607,Completed,73.99.62.213,2/5/25 21:01,0,39,1,,,,,,,,,US,VA,2/5/25,Wednesday,9-11 pm,0,0,0,0,0,0,None,None
+189321938,Completed,134.126.113.75,2/6/25 17:17,0,112,1,,,,,,,,,US,VA,2/6/25,Thursday,5-7 pm,3,0,1,0,0,2,15 mins,Boolean logic
+189429170,Completed,134.126.253.69,2/9/25 15:00,0,224,1,,,,,,,,,US,VA,2/9/25,Sunday,3-5 pm Sunday only,3,0,2,0,1,0,"Generally a good amount of time, between 5-10 minutes ",240 - iterator removes methods(properly updating pointers) 159 - incorrect writing of tests
+189430533,Completed,134.126.113.123,2/9/25 16:56,0,34,1,,,,,,,,,US,VA,2/9/25,Sunday,5-7 pm,2,0,1,0,1,0,10 mins,159: Formatting issues with printing 240: Cases for runtime differences
+189431695,Completed,134.126.113.86,2/9/25 19:03,0,30,1,,,,,,,,,US,VA,2/9/25,Sunday,7-9 pm,0,0,0,0,0,0,N/A,N/A
+189498396,Completed,2605:ad80:20:2449:986f:965f:140f:95c4,2/10/25 15:58,0,88,1,,,,,,,,,US,VA,2/6/25,Thursday,7-9 pm,3,0,2,0,0,1,about 15-20 minutes,261 - getopt
+189498412,Completed,2605:ad80:20:2449:986f:965f:140f:95c4,2/10/25 15:58,0,29,1,,,,,,,,,US,VA,2/6/25,Thursday,9-11 pm,0,0,0,0,0,0,0 minutes,None
+189499947,Completed,134.126.113.109,2/10/25 16:59,0,84,1,,,,,,,,,US,VA,2/10/25,Monday,5-7 pm,1,0,0,0,1,0,10-20 minutes,240 - iterators
+189501940,Completed,134.126.113.46,2/10/25 19:04,0,86,1,,,,,,,,,US,VA,2/10/25,Monday,7-9 pm,1,0,0,0,0,1,5 minutes,"writing C, debugging w/out VSCode to help (Aboutabl sections)"
+189503427,Completed,134.126.253.69,2/10/25 21:04,0,173,1,,,,,,,,,US,VA,2/10/25,Monday,9-11 pm,1,1,0,0,0,0,"maybe a bit long that we are supposed, but online makes in hard and take longer, 20-25 min","149 - math problems/issues, docstring issues "
+189694692,Completed,134.126.141.39,2/13/25 16:56,0,78,1,,,,,,,,,US,VA,2/13/25,Thursday,5-7 pm,4,0,0,0,1,3,"a long time, like an hour lowkey",240: LinkedList 261: getopt and printing the bytes (all Aboutabl students)
+189790828,Completed,134.126.141.39,2/16/25 14:57,0,3,1,,,,,,,,,US,VA,2/16/25,Sunday,3-5 pm Sunday only,0,0,0,0,0,0,0,N/A (no students arrived)
+189791912,Completed,134.126.113.123,2/16/25 16:55,0,44,1,,,,,,,,,US,VA,2/16/25,Sunday,5-7 pm,2,1,0,0,1,0,10-15 mins,149: String formatting 240: Hybrid Deque Readiness Quiz
+189792358,Completed,52.124.33.153,2/16/25 17:47,0,54,1,,,,,,,,,US,VA,2/13/25,Thursday,7-9 pm,4,0,0,0,1,3,About 15-20 minutes,CS261 - Parsing with getopt
+189792371,Completed,52.124.33.153,2/16/25 17:49,0,106,1,,,,,,,,,US,VA,2/13/25,Thursday,9-11 pm,2,0,0,0,0,2,20 Minutes,CS261 - Getopt and fixing general errors/output issues
+189793035,Completed,2600:1003:b868:e66f:288c:62bf:64fe:e18,2/16/25 19:07,0,42,1,,,,,,,,,US,VA,2/16/25,Sunday,7-9 pm,0,0,0,0,0,00,N/A,n/a
+189822879,Completed,134.126.141.39,2/17/25 17:02,0,1993,1,,,,,,,,,US,VA,2/17/25,Monday,5-7 pm,5,4,0,0,0,1,10-15 minutes,149 - functions and conditional statements 261 - Switch cases
+189863005,Completed,134.126.253.69,2/18/25 17:33,0,499,1,,,,,,,,,US,VA,2/18/25,Tuesday,5-7 pm,1,0,0,0,0,1,30-40 minutes,"261 - issues with ambiguity for boolean return, a.k.a. return true has 2 different meaning "
+189864561,Completed,134.126.141.232,2/18/25 18:59,0,136,1,,,,,,,,,US,VA,2/17/25,Monday,9-11 pm,4,1,0,0,3,0,15-20 minutes,240: cursor confusion (PA; hybrid deque)
+189864582,Completed,134.126.253.69,2/18/25 19:00,0,44,1,,,,,,,,,US,VA,2/18/25,Tuesday,7-9 pm,0,0,0,0,0,0,0,none
+189866064,Completed,75.102.137.39,2/18/25 21:01,0,85,1,,,,,,,,,US,VA,2/18/25,Tuesday,9-11 pm,0,0,0,0,0,0,0,Na
+189934889,Completed,134.126.141.39,2/20/25 17:05,0,36,1,,,,,,,,,US,VA,2/20/25,Thursday,7-9 pm,3,0,0,0,0,3,20 mins,261 PA1 mem dump
+189960210,Completed,134.126.113.88,2/21/25 08:55,0,126,1,,,,,,,,,US,VA,2/20/25,Thursday,7-9 pm,5,1,2,0,1,1,roughly 20 mins,CS261 - invalid files / A tests Unsure of rest
+189960277,Completed,134.126.113.88,2/21/25 08:56,0,58,1,,,,,,,,,US,VA,2/20/25,Thursday,9-11 pm,2,1,0,0,0,1,15 mins,CS261 - p1 invalid tests CS149 - Codingbat vacation alarm problem
+190024630,Completed,134.126.141.39,2/23/25 15:09,0,5,1,,,,,,,,,US,VA,2/23/25,Sunday,3-5 pm Sunday only,7,0,6,0,1,0,10-15 minutes,159 - Course folder setup and Junit coverage issues 240 - removing nodes with iterators; handling edge cases
+190025403,Completed,134.126.113.123,2/23/25 16:57,0,64,1,,,,,,,,,US,VA,2/23/25,Sunday,5-7 pm,4,0,2,0,1,1,10-30 mins,159: coming up with test cases 240: deque pollfirst and polllast 261: integration testing logistics
+190055075,Completed,134.126.113.107,2/24/25 12:06,0,79,1,,,,,,,,,US,VA,2/23/25,Sunday,7-9 pm,6,0,3,0,1,2,20 mins,159: Understanding why some tests continued to fail and how to test for them 240: Understanding Hybrid Deque
+190064876,Completed,75.102.137.39,2/24/25 17:38,0,108,1,,,,,,,,,US,VA,2/24/25,Monday,5-7 pm,6,3,2,0,0,1,10-20 minutes,149 - Functions and format string 159 - testing and coverage 261 - fread and pointers
+190066693,Completed,156.146.47.243,2/24/25 19:12,0,618,1,,,,,,,,,US,GA,2/24/25,Monday,7-9 pm,11,4,4,2,1,0,15-25 minutes ,"159 (Chao): coverage bugs in VSCode (the suggested fix seems to introduce a different problem on some machines) Note: the 227 student was really a 327 student, but they just needed help with getting things to the right places on stu "
+190102903,Completed,134.126.113.126,2/25/25 17:03,0,212,1,,,,,,,,,US,VA,2/25/25,Tuesday,5-7 pm,8,3,3,0,1,1,"Generally a good amount of time, between 5-10 minutes ","240 - time complexities 261 - pointers 149 - logic errors/Understanding homework questions 159 - test Coverage, enums, explicit constructor "
+190104481,Completed,134.126.113.126,2/25/25 19:00,0,472,1,,,,,,,,,US,VA,2/25/25,Tuesday,7-9 pm,3,1,0,0,0,2,"Generally a good amount of time, between 5-15 minutes ","149 - Docstring Issues 261 - dump header printing syntax, typecasting"
+190135514,Completed,134.126.141.176,2/26/25 12:12,0,17,1,,,,,,,,,US,VA,2/25/25,Tuesday,9-11 pm,0,0,0,0,0,0,,
+190149963,Completed,73.99.62.213,2/26/25 21:07,0,18,1,,,,,,,,,US,VA,2/26/25,Wednesday,9-11 pm,0,0,0,0,0,0,0,N/A
+190192340,Completed,134.126.113.75,2/27/25 17:06,0,171,1,,,,,,,,,US,VA,2/27/25,Thursday,5-7 pm,4,3,2,1,0,1,30 mins,"261, other stuff"
+190262894,Completed,134.126.141.39,3/2/25 15:48,0,2,1,,,,,,,,,US,VA,3/2/25,Sunday,3-5 pm Sunday only,2,0,1,0,1,0,30 mins,159 - Checkstyle issues 240 - Iterator hasNext() problems; what to check for
+190263668,Completed,134.126.141.39,3/2/25 17:00,0,4261,1,,,,,,,,,US,VA,3/2/25,Sunday,5-7 pm,2,0,0,0,1,0,5-10 mins,240 - Incorrectly checking for block edges with the size() method CIS 221 - conditional confusion
+190265672,Completed,2600:1003:b851:a68d:40cc:9845:5ae0:2b69,3/2/25 20:27,0,50,1,,,,,,,,,US,VA,3/2/25,Sunday,7-9 pm,3,0,3,0,0,0,10 mins,159: enum creation and how to interact with enums
+190293800,Completed,2605:ad80:20:2449:5c41:9aee:20dd:ac3a,3/3/25 15:56,0,69,1,,,,,,,,,US,VA,2/27/25,Thursday,7-9 pm,3,2,0,0,0,1,30 Mins,CS261 - Issue with stack smashing upon running program with different file paths
+190293813,Completed,2605:ad80:20:2449:5c41:9aee:20dd:ac3a,3/3/25 15:56,0,33,1,,,,,,,,,US,VA,2/27/25,Thursday,9-11 pm,0,0,0,0,0,0,0 Mins,
+190294874,Completed,134.126.113.109,3/3/25 17:03,0,148,1,,,,,,,,,US,VA,3/3/25,Monday,5-7 pm,4,1,1,0,2,0,10-15 minutes,149 - formatting 159 - enums 240 - deques and creating/destroying blocks
+190335881,Completed,134.126.113.126,3/4/25 17:03,0,207,1,,,,,,,,,US,VA,3/4/25,Tuesday,5-7 pm,10,3,4,0,3,0,"I bit longer than we should be, closer to 15-20 minutes, mostly just 240","149 - understanding shift cipher(ord and chr), math logic for river counts 159 - reading specs thoroughly, 240 - next method of iterators, coverage"
+190337981,Completed,134.126.113.126,3/4/25 19:13,0,73,1,,,,,,,,,US,VA,3/4/25,Tuesday,7-9 pm,6,4,0,0,2,0,"Generally a good amount of time, between 5-15 minutes ",149 - tuples and how to use them 240 - Immutability of a cursor and reassigning next back 
+190339610,Completed,75.102.137.39,3/4/25 21:38,0,64,1,,,,,,,,,US,VA,3/4/25,Wednesday,9-11 pm,0,0,0,0,0,0,,
+190370885,Completed,134.126.113.94,3/5/25 15:35,0,126,1,,,,,,,,,US,VA,2/26/25,Wednesday,7-9 pm,4,1,0,0,0,3,15 mins,261 PA1 how to debug
+190376358,Completed,73.99.62.213,3/5/25 21:09,0,44,1,,,,,,,,,US,VA,3/5/25,Wednesday,9-11 pm,1,0,0,0,1,0,15 mins,The one 240 person was just trying to get the coverage lines to show up on the screen.
+190426768,Completed,134.126.113.75,3/6/25 17:10,0,132,1,,,,,,,,,US,VA,3/6/25,Thursday,5-7 pm,5,2,0,0,1,2,30 mins,261 dump headers
+190428995,Completed,134.126.113.88,3/6/25 19:20,0,65,1,,,,,,,,,US,VA,3/6/25,Thursday,7-9 pm,5,0,1,0,1,3,15-30 mins,CS261 - formatting of dump_memory CS159 - Lab 8 step function
+190430399,Completed,2605:ad80:20:2449:d44b:750a:d8b8:1e27,3/6/25 21:01,0,30,1,,,,,,,,,US,VA,3/6/25,Thursday,9-11 pm,1,0,0,0,0,1,20 mins,CS261 - Unaligned 1 test
+190486307,Completed,134.126.141.39,3/9/25 13:59,0,3,1,,,,,,,,,US,VA,3/9/25,Sunday,3-5 pm Sunday only,1,0,1,0,0,0,Roughly 10 minutes,159 - Reading instructions for HW5 constructors; not realizing where a deep copy is needed
+190487353,Completed,134.126.113.123,3/9/25 15:56,0,26,1,,,,,,,,,US,VA,3/9/25,Sunday,5-7 pm,2,0,1,0,1,0,10-15 mins,159: returning references 240: hybriddeque remove
+190488686,Completed,2600:1003:b84a:a3fc:cc03:4a77:fcbf:70b7,3/9/25 18:08,0,49,1,,,,,,,,,US,VA,3/9/25,Sunday,7-9 pm,0,0,0,0,0,0,N/A divide by zero error ,N/A
+190543468,Completed,75.102.137.39,3/10/25 16:30,0,49,1,,,,,,,,,US,VA,3/10/25,Monday,5-7 pm,3,3,0,0,0,0,10-20 minutes,149 - while loops with tuples
+190600229,Completed,134.126.141.39,3/11/25 16:23,0,427,1,,,,,,,,,US,VA,3/11/25,Tuesday,5-7 pm,10,5,1,0,3,1,"Longer than usual for 240 and 261, closer to 30-40 minutes","149 - Necessity of if main equals main block, complicating while block conditions 159 - memory diagram 240 - hybrid dequeue iterators/shifting "
+190602251,Completed,134.126.141.39,3/11/25 18:45,0,719,1,,,,,,,,,US,VA,3/11/25,Tuesday,7-9 pm,7,2,1,0,4,0,"Longer than normal, 20-30 minutes, lots of really weird 240","149 - tuples, while loop conditionals 159 - memory diagrams 240 - iterators, removes, and various other methods, :("
+190603033,Completed,75.102.137.39,3/11/25 20:11,0,24,1,,,,,,,,,US,VA,3/11/25,Tuesday,9-11 pm,0,0,0,0,0,0,,
+190663097,Completed,73.99.62.213,3/12/25 19:01,0,584,1,,,,,,,,,US,VA,3/12/25,Wednesday,9-11 pm,0,0,0,0,0,0,0,None
+190663954,Completed,73.99.62.213,3/12/25 20:02,0,1783,1,,,,,,,,,US,VA,3/12/25,Wednesday,9-11 pm,0,0,0,0,0,0,0,N/A
+190772189,Completed,134.126.113.75,3/13/25 16:08,0,46,1,,,,,,,,,US,VA,3/13/25,Thursday,5-7 pm,2,2,0,0,0,0,15 mins,Help with while loops
+190789991,Completed,134.126.113.40,3/14/25 07:44,0,31,1,,,,,,,,,US,VA,3/13/25,Thursday,7-9 pm,0,0,0,0,0,0,0,None
+190790022,Completed,134.126.113.40,3/14/25 07:45,0,33,1,,,,,,,,,US,VA,3/13/25,Thursday,9-11 pm,0,0,0,0,0,0,0,None
+191239494,Completed,75.102.137.39,3/24/25 17:47,0,447,1,,,,,,,,,US,VA,3/24/25,Monday,5-7 pm,4,0,0,0,0,4,10-20 minutes,261 - fetching and verifying bounds with arrays. 
+191242005,Completed,2600:1003:b126:f109:1d:716f:3512:3851,3/24/25 20:42,0,32,1,,,,,,,,,US,VA,3/24/25,Monday,9-11 pm,0,0,0,0,0,0,0 mins,none
+191272100,Completed,134.126.141.39,3/25/25 16:10,0,279,1,,,,,,,,,US,VA,3/25/25,Tuesday,5-7 pm,5,1,0,0,1,3,"generally a good amount of time, between 5-15 minutes today","149 - PA1, functions and loops 240 - mergehalfspace where actual comparing occurs 261 - how to get enum 'constants' from the number, need a lookup table, conditions to check if opcodes are valid"
+191274757,Completed,134.126.141.39,3/25/25 18:03,0,75,1,,,,,,,,,US,VA,3/25/25,Tuesday,7-9 pm,1,0,0,0,0,1,about 20-25 minutes but no one here,261 - error checking for fetch
+191294656,Completed,75.102.137.39,3/25/25 20:03,0,41,1,,,,,,,,,US,VA,3/25/25,Tuesday,9-11 pm,1,0,0,0,0,1,5-10 minutes,261- verifying registers are valid ones for cmov
+191335500,Started,73.99.62.213,3/26/25 20:28,0,18,1,,,,,,,,,US,VA,3/26/25,Wednesday,9-11 pm,0,0,0,0,0,0,0,None
+191373269,Completed,134.126.113.75,3/27/25 16:07,0,412,1,,,,,,,,,US,VA,3/27/25,Thursday,5-7 pm,9,0,0,0,4,4,20 mins,261 segment reading stuff
+191434502,Completed,134.126.113.40,3/28/25 10:50,0,92,1,,,,,,,,,US,VA,3/27/25,Thursday,7-9 pm,5,2,1,0,2,0,20-30 minutes,CS240- MergeSortHalfSpace CS149 - Array syntax
+191434625,Completed,134.126.113.40,3/28/25 10:52,0,25,1,,,,,,,,,US,VA,3/27/25,Thursday,9-11 pm,0,0,0,0,0,0,0 minutes,None
+191490539,Completed,134.126.141.39,3/30/25 14:00,0,3,1,,,,,,,,,US,VA,3/30/25,Sunday,3-5 pm Sunday only,3,0,0,0,1,2,15-20 mins,240 - How to begin programming merge 261 - Starting the P3 and using the reference sheet
+191491871,Completed,134.126.113.123,3/30/25 16:04,0,150,1,,,,,,,,,US,VA,3/30/25,Sunday,5-7 pm,2,0,0,0,1,1,10-15 mins,240: where to start 261: where to start
+191492932,Completed,2600:1003:b852:f413:c47b:1202:9077:e299,3/30/25 18:08,0,105,1,,,,,,,,,US,VA,3/30/25,Sunday,7-9 pm,2,0,1,0,0,1,20 mins,159: forgot to write some unit tests so gradescope was failing 261: understanding the flow of p2
+191525253,Completed,2600:1003:b853:bb0:9d25:9a1a:41bf:3d15,3/31/25 17:44,0,137,1,,,,,,,,,US,VA,3/31/25,Monday,5-7 pm,2,0,1,0,1,0,10-30 minutes,159 - specifications and understanding recursion 240 - sorting and the differences between them
+191525471,Completed,134.126.113.123,3/31/25 17:54,0,65,1,,,,,,,,,US,VA,3/31/25,Monday,7-9 pm,5,1,3,0,0,1,10-15 mins,149: points for the dice 159: hardness was bad for constructor
+191553567,Completed,134.126.141.39,4/1/25 16:15,0,123,1,,,,,,,,,US,VA,4/1/25,Tuesday,5-7 pm,8,4,0,0,2,2,bit longer than usually clodser to 15-20 minutes,"149 - how to search dictionaries 240 - introsort and how to test program 261 - p2 main and read phdr, load program"
+191555561,Completed,134.126.141.39,4/1/25 18:01,0,195,1,,,,,,,,,US,VA,4/1/25,Tuesday,7-9 pm,9,3,0,0,5,1,"longer than usually, minscule 240 errors","149 - PA1 understanding the specs 240 - Merge sort sizing and merge, 261 - fseek"

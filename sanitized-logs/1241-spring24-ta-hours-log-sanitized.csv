@@ -1,0 +1,216 @@
+﻿Data Export Generated on Wed Feb 19 09:26:23 PST 2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Survey ID 11853840,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dashboard Name My Dashboard,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Response ID,Response Status,IP Address,Timestamp (mm/dd/yyyy),Duplicate,Time Taken to Complete (Seconds),Seq. Number,External Reference,shift,lift,tift,biffed,Custom Variable 5,Respondent Email,Email List,Country Code,Region,Intro,What is the date of the shift you are reporting for?,Please choose the day of the week.,Please enter the time slot.,Approximately how many student-questions were helped in total during your shift? (we understand that this tally may be higher than the number of students in the room because a student may add themselves a 2nd time...),How many CS 149 students?,How many CS 159 Students?,How many CS 227 Students?,How many CS 240 Students?,How many CS 261 Students?,Comment on how long TAs generally spent with a given student during your shift.,What were the most common problems being addressed. Ideally these would be prefaced with the course number.
+115888746,Completed,2601:5c4:c700:c3d0:a1c0:7c7e:f3d6:2bd,1/23/24 08:47,0,43,1,,,,,,,,,US,VA,,1/22/24,Monday,7-9 pm,7,6,1,0,0,0,10-15 mins,
+115899552,Completed,134.126.113.50,1/23/24 10:52,0,71,1,,,,,,,,,US,VA,,1/22/24,Monday,9-11 pm,0,0,0,0,0,0,N/A-no students showed up,N/A
+115910347,Completed,134.126.113.17,1/23/24 14:17,0,79,1,,,,,,,,,US,VA,,1/22/24,Monday,5-7 pm,4,1,3,0,0,0,15,"149 - formatting 159 - formatting, syntax"
+115921729,Completed,134.126.113.74,1/23/24 19:39,0,132,1,,,,,,,,,US,VA,,1/23/24,Monday,5-7 pm,4,4,0,0,0,0,20-30 minutes. ,"149: basic python syntax issues, flake8/docstring comprehension, helped one student with basic understanding of how computer file systems work"
+115924353,Completed,134.126.113.22,1/23/24 21:31,0,77,1,,,,,,,,,US,VA,,1/23/24,Monday,7-9 pm,6,5,0,0,2,0,10-20mins,"240 - iterators 149 - formatting, pep8"
+115961036,Completed,134.126.113.17,1/24/24 12:28,0,46,1,,,,,,,,,US,VA,,1/23/24,Monday,9-11 pm,0,0,0,0,0,0,,
+115975009,Completed,134.126.113.17,1/24/24 19:00,0,162,1,,,,,,,,,US,VA,,1/24/24,Wednesday,5-7 pm,7,3,2,2,0,0,15 minutes,227: truth tables 159: Java Syntax
+115977433,Completed,134.126.113.82,1/24/24 21:03,0,115,1,,,,,,,,,US,VA,,1/24/24,Wednesday,7-9 pm,11,9,0,1,1,0,10 minutes,149 strings and such
+115979198,Completed,2601:5c4:c780:1470:7cc2:63d9:301a:9ef4,1/24/24 22:56,0,582,1,,,,,,,,,US,VA,,1/24/24,Wednesday,9-11 pm,1,1,0,0,0,0,15 minutes,149 - program that is only allowed to have two print statements
+115991175,Completed,134.126.113.82,1/25/24 08:52,0,58,1,,,,,,,,,US,VA,,1/24/24,Wednesday,7-9 pm,11,9,0,1,1,0,10 minutes,strings in 149
+116017267,Completed,134.126.113.82,1/25/24 18:56,0,53,1,,,,,,,,,US,VA,,1/25/24,Thursday,5-7 pm,1,0,1,0,0,0,5 minutes,vscode java debugging
+116019979,Completed,134.126.113.120,1/25/24 20:59,0,39,1,,,,,,,,,US,VA,,1/25/24,Thursday,7-9 pm,1,0,1,0,0,0,3 mins,javadoc comment
+116022657,Completed,73.99.87.156,1/25/24 23:00,0,7811,1,,,,,,,,,US,VA,,1/25/24,Thursday,9-11 pm,0,0,0,0,0,0,N/A,N/A
+116094211,Completed,134.126.113.66,1/28/24 16:52,0,565,1,,,,,,,,,US,VA,,1/28/24,Sunday,3-5 pm Sunday only,2,0,2,0,0,0,15 min,"159 - Understanding Java syntax, how to run code/tests in VS Code, tests timing out on Gradescope"
+116095639,Completed,134.126.113.82,1/28/24 18:59,0,97,1,,,,,,,,,US,VA,,1/28/24,Sunday,5-7 pm,7,1,5,1,0,0,5 minutes,java logistics
+116109717,Completed,2605:ad80:20:2b64:2490:cb6e:42d1:cac4,1/29/24 07:30,0,133,1,,,,,,,,,US,VA,,1/28/24,Sunday,9-11 pm,2,0,1,0,0,1,15-30 min,159: logic issues with the hw 261: using getopt
+116118039,Completed,73.251.214.183,1/29/24 09:20,0,70,1,,,,,,,,,US,VA,,1/28/24,Sunday,7-9 pm,6,2,0,0,4,0,20,"240-generics, iterators 149-printing"
+116158802,Completed,134.126.113.17,1/29/24 20:58,0,52,1,,,,,,,,,US,VA,,1/29/24,Monday,5-7 pm,12,1,8,0,3,0,15,"149 - printing 159 - modulous, vsc 240 - iterators "
+116158835,Completed,134.126.113.40,1/29/24 20:59,0,56,1,,,,,,,,,US,VA,,1/29/24,Monday,7-9 pm,13,1,9,0,3,0,10 mins,"remove method for 240, yahtzee for 159"
+116161641,Completed,73.99.87.156,1/29/24 23:09,0,30,1,,,,,,,,,US,VA,,1/29/24,Monday,9-11 pm,0,0,0,0,0,0,,
+116226400,Completed,134.126.113.50,1/30/24 18:57,0,253,1,,,,,,,,,US,VA,,1/30/24,Tuesday,5-7 pm,6,2,1,0,3,0,15-20 minutes,"240: autoformatter for eclipse, using multiset in PA 159: gradescope didn't recognize class, but worked locally. referred to piazza 149: basic f-string formatting"
+116229295,Completed,134.126.113.22,1/30/24 20:55,0,137,1,,,,,,,,,US,VA,,1/30/24,Tuesday,7-9 pm,5,3,1,0,1,0,10-20mins,"149: logic issues 159: grade scope errors, vs code issues, logic issues 240: iterators "
+116267915,Completed,134.126.113.17,1/31/24 13:53,0,26,1,,,,,,,,,US,VA,,1/30/24,Tuesday,9-11 pm,0,0,0,0,0,0,,
+116277679,Completed,134.126.113.17,1/31/24 19:03,0,91,1,,,,,,,,,US,VA,,1/31/24,Wednesday,5-7 pm,4,3,0,0,1,0,15 minutes,
+116279758,Completed,134.126.113.82,1/31/24 21:01,0,108,1,,,,,,,,,US,VA,,1/31/24,Wednesday,7-9 pm,18,5,4,0,10,0,10 minutes,string formatter and multiset specs 
+116281828,Completed,2601:5c4:c780:1470:4493:1b4f:366f:f81c,1/31/24 22:58,0,296,1,,,,,,,,,US,VA,,1/31/24,Wednesday,9-11 pm,5,1,1,0,2,1,10 min,149 - string formatting in print statements 159 - vs code errors with unit 261 - reading in using fgets and comparing strings
+116321863,Completed,134.126.113.82,2/1/24 18:59,0,50,1,,,,,,,,,US,VA,,2/1/24,Thursday,5-7 pm,2,0,2,0,0,0,5 minutes,java strings and objects
+116323832,Completed,134.126.113.40,2/1/24 21:01,0,43,1,,,,,,,,,US,VA,,2/1/24,Thursday,7-9 pm,3,0,1,0,2,0,10 mins ,
+116326061,Completed,73.99.87.156,2/1/24 23:01,0,30,1,,,,,,,,,US,VA,,2/1/24,Thursday,9-11 pm,0,0,0,0,0,0,,
+116398544,Completed,134.126.113.66,2/4/24 16:55,0,308,1,,,,,,,,,US,VA,,2/4/24,Sunday,3-5 pm Sunday only,4,1,2,0,1,0,15 min,159 - Arrays and string methods 240 - Generics and UML
+116400375,Completed,134.126.113.82,2/4/24 19:06,0,59,1,,,,,,,,,US,VA,,2/4/24,Sunday,5-7 pm,6,0,4,0,2,0,5 minutes,vsocde coverage 159
+116401847,Completed,134.126.113.17,2/4/24 20:58,0,111,1,,,,,,,,,US,VA,,2/4/24,Sunday,7-9 pm,9,0,5,0,4,0,15,"159-vscode being terrible with tests (was the only issue we had the entire time) 240 - Big O, Generics, etc."
+116419352,Completed,2605:ad80:20:2b64:c512:25af:b8f8:9d20,2/5/24 09:24,0,44,1,,,,,,,,,US,VA,,2/4/24,Sunday,9-11 pm,0,0,0,0,0,0,NA,NA
+116450800,Completed,134.126.113.120,2/5/24 21:02,0,41,1,,,,,,,,,US,VA,,2/5/24,Monday,7-9 pm,12,1,3,0,7,1,10 mins,240: CounterMultiset - how to add and remove the things
+116452740,Completed,73.99.87.156,2/5/24 23:01,0,279,1,,,,,,,,,US,VA,,2/5/24,Monday,9-11 pm,3,0,1,0,1,1,20-30 min,240: clarification on what needs to be included in an interface and the implementation of an interface for multiset PA 159: Java string manipulation 261: hexdump formatting for lab1b
+116497855,Completed,134.126.113.50,2/6/24 19:09,0,199,1,,,,,,,,,US,VA,,2/6/24,Tuesday,5-7 pm,15,0,0,0,15,0,20-30 minutes,240: Multiset PA. Common issues include confusion about how to handle remove method and how to account for methods that need to be included when extending Collection. 
+116499772,Completed,134.126.113.22,2/6/24 20:28,0,3131,1,,,,,,,,,US,VA,,2/6/24,Tuesday,7-9 pm,14,0,0,0,14,0,10-20minutes,"240 - how to implement iterators, talking through/understanding the spec, infinte loops, "
+116503092,Completed,73.31.123.109,2/6/24 23:06,0,61,1,,,,,,,,,US,VA,,2/6/24,Tuesday,9-11 pm,5,0,0,0,5,0,15 minutes,240- All the questions were mostly about implementing abstracts and using generics
+116542848,Completed,134.126.113.17,2/7/24 17:49,0,83,1,,,,,,,,,US,VA,,2/5/24,Monday,5-7 pm,20,4,7,0,9,0,10,"149 - general syntax 159 - coverage, Vscode, specs 240 - Pairs, iterator remove"
+116546709,Completed,134.126.113.82,2/7/24 21:02,0,233,1,,,,,,,,,US,VA,,2/7/24,Wednesday,7-9 pm,18,0,0,0,18,0,10 minutes,240 everything
+116548540,Completed,2601:5c4:c780:1470:a091:9a3e:b6d6:958d,2/7/24 22:59,0,151,1,,,,,,,,,US,VA,,2/7/24,Wednesday,9-11 pm,10,0,0,0,10,0,15 min,"240 - iterator remove and next combination, has next at end of list, throwing exceptions, method signatures"
+116603598,Completed,134.126.113.82,2/8/24 19:00,0,91,1,,,,,,,,,US,VA,,2/8/24,Thursday,5-7 pm,8,0,1,0,7,0,10 minutes,240 final tests with efficency
+116605983,Completed,134.126.141.39,2/8/24 20:59,0,55,1,,,,,,,,,US,,,2/8/24,Thursday,7-9 pm,9,0,0,0,9,0,15-20 mins,240: next and remove; the timing parts of the PA (students were removing the NEXT element after what the previous next returned)
+116607967,Completed,73.99.87.156,2/8/24 23:00,0,64,1,,,,,,,,,US,VA,,2/8/24,Thursday,9-11 pm,1,0,1,0,0,0,5 minutes,159: Student had Java 21 on their system and needed to run the clean java command
+116695935,Completed,134.126.113.66,2/11/24 17:04,0,733,1,,,,,,,,,US,VA,,2/11/24,Sunday,3-5 pm Sunday only,3,0,0,0,0,3,15 min,"261 - get opt, fopen, fseek"
+116697002,Completed,134.126.113.82,2/11/24 19:02,0,45,1,,,,,,,,,US,VA,,2/11/24,Sunday,5-7 pm,4,0,0,0,0,4,5 minutes,reading files in c
+116698035,Completed,134.126.113.17,2/11/24 20:58,0,58,1,,,,,,,,,US,VA,,2/11/24,Sunday,7-9 pm,0,0,0,0,0,0,0,444- the little error on piazza got me too 445-what is going on in this class 430 - i finished the lab 
+116699634,Completed,2605:ad80:20:9848:a8fb:3817:c240:24ae,2/11/24 23:53,0,51,1,,,,,,,,,US,VA,,2/11/24,Sunday,9-11 pm,0,0,0,0,0,0,NA,NA
+116700288,Completed,2600:1003:b85d:e65f:317c:3cfa:dd40:64af,2/12/24 01:12,0,174,1,,,,,,,,,US,VA,,2/7/24,Wednesday,5-7 pm,8,2,0,0,6,0,15 minutes,240: most questions had to do with using the abstract correctly and using the correct types. Many students did not know about piazza so we helped them find it and log in. 
+116738664,Completed,134.126.113.17,2/12/24 19:06,0,293,1,,,,,,,,,US,VA,,2/12/24,Monday,5-7 pm,4,0,0,0,1,3,10,"240 - Junit running, overrides 261 - setting up p1 "
+116740556,Completed,134.126.113.120,2/12/24 20:56,0,40,1,,,,,,,,,US,VA,,2/12/24,Monday,7-9 pm,3,0,0,0,3,0,10 mins,"240: P3 readiness quiz; the student kept making tiny little math errors that would get them the wrong answer, but they knew everything"
+116742904,Completed,73.99.87.156,2/12/24 23:01,0,78,1,,,,,,,,,US,VA,,2/12/24,Monday,9-11 pm,3,1,2,0,0,0,15-20 minutes,"149: understanding the concept of tuples 159: doing java clean to make java 17 work, coverage in vscode"
+116832073,Completed,134.126.113.50,2/13/24 19:00,0,666,1,,,,,,,,,US,VA,,2/13/24,Tuesday,5-7 pm,13,8,0,0,5,0,20-25 min,"240: confusion about deque PA, specifically about how indexes work 149: basic function structure, how does mod operator work, translating formulas into code"
+116834856,Completed,134.126.113.51,2/13/24 21:04,0,128,1,,,,,,,,,US,VA,,2/13/24,Tuesday,7-9 pm,5,1,0,0,4,0,10-15min,"149 - logic issues 240 - readiness quiz questions, understanding how the data structures worked when traversing "
+116837601,Completed,2600:1003:b840:f842:adc1:574c:dad1:2230,2/13/24 23:06,0,31,1,,,,,,,,,US,VA,,2/13/24,Tuesday,9-11 pm,0,0,0,0,0,0,,
+116881086,Completed,134.126.113.82,2/14/24 21:00,0,67,1,,,,,,,,,US,VA,,2/14/24,Wednesday,7-9 pm,3,1,1,0,0,1,5 minutes,pointers
+116883432,Completed,2601:5c4:c780:1470:bc2e:9133:aea4:666b,2/14/24 22:52,0,510,1,,,,,,,,,US,VA,,2/14/24,Wednesday,9-11 pm,1,0,0,0,0,1,30 min,261 - dump_header
+116930408,Completed,134.126.113.82,2/15/24 18:57,0,89,1,,,,,,,,,US,VA,,2/15/24,Thursday,5-7 pm,22,11,4,0,4,3,7 minutes,DOcstrings
+116933189,Completed,134.126.113.120,2/15/24 20:56,0,373,1,,,,,,,,,US,VA,,2/15/24,Thursday,7-9 pm,16,5,0,0,9,2,10 mins,"for 240, it was polling and offering for 261, it was tiny errors that they were making in main"
+116936410,Completed,73.99.87.156,2/15/24 23:19,0,223,1,,,,,,,,,US,VA,,2/15/24,Thursday,9-11 pm,3,0,0,0,0,3,30-45 minutes,"261: issues with dump header-student needed help with the concept of bits and bytes, and how to utilize bit shifting to isolate high and low bytes of a 16 bit value"
+117024499,Completed,134.126.113.66,2/18/24 17:06,0,59,1,,,,,,,,,US,VA,,2/18/24,Sunday,3-5 pm Sunday only,9,2,5,0,0,2,15 min,159 - Classes (eq and to string) 261 - structs and malloc
+117025969,Completed,134.126.113.82,2/18/24 19:01,0,103,1,,,,,,,,,US,VA,,2/18/24,Sunday,7-9 pm,11,2,6,0,3,0,5 minutes,circular arrays ans oop 
+117028149,Completed,134.126.113.17,2/18/24 21:12,0,628,1,,,,,,,,,US,VA,,2/18/24,Sunday,7-9 pm,13,0,8,0,5,0,15,159-Basic java compiler understanding 240- not understanding circular arrays 
+117030450,Completed,134.126.113.22,2/18/24 23:04,0,92,1,,,,,,,,,US,VA,,2/18/24,Sunday,9-11 pm,1,0,1,0,0,0,10-15 MIN,159 - null array issue 
+117070527,Completed,134.126.113.17,2/19/24 18:59,0,31,1,,,,,,,,,US,VA,,2/19/24,Monday,5-7 pm,8,0,7,0,0,1,15,"159 - Classes, constructor, what is toSTring "
+117073030,Completed,134.126.113.120,2/19/24 20:59,0,46,1,,,,,,,,,US,VA,,2/19/24,Monday,7-9 pm,9,0,6,0,0,3,10-15 mins,159: public static final 261: printf formatting
+117075433,Completed,73.99.87.156,2/19/24 23:01,0,136,1,,,,,,,,,US,VA,,2/19/24,Monday,9-11 pm,3,0,3,0,0,0,20-30 minutes,159: hw4 code coverage
+117119287,Completed,134.126.113.70,2/20/24 14:27,0,83,1,,,,,,,,,US,VA,,2/18/24,Sunday,5-7 pm,14,4,6,0,3,0,5 minutes ,Object oriented programming 
+117131283,Completed,134.126.113.50,2/20/24 19:01,0,93,1,,,,,,,,,US,VA,,2/20/24,Tuesday,5-7 pm,4,3,0,0,1,0,15-20 minutes,"149: if/else structure, installing flake8 240: algorithm analysis "
+117134949,Completed,134.126.113.22,2/20/24 21:00,0,214,1,,,,,,,,,US,VA,,2/20/24,Tuesday,7-9 pm,10,7,0,0,3,0,10-15 MIN,"149: reading through/understanding the specs for the homework, fixing simple logic issues 240: big o notation/ time complexity exam prep "
+117138619,Completed,73.31.123.109,2/20/24 23:41,0,40,1,,,,,,,,,US,VA,,2/20/24,Tuesday,9-11 pm,1,0,0,0,1,0,10 minutes,
+117204945,Started,134.126.113.17,2/21/24 18:59,0,76,1,,,,,,,,,US,VA,,2/21/24,Wednesday,5-7 pm,8,8,0,0,0,0,10 minutes,Lot of questions about calling functions and people reviewing for their quiz tomorrow.
+117207515,Completed,2600:1003:b8ca:6b5c:e978:c740:3660:f062,2/21/24 20:57,0,254,1,,,,,,,,,US,,,2/21/24,Wednesday,7-9 pm,14,9,0,0,5,0,10 minutes ,"240 understanding requirements, 149 logic stuff"
+117210827,Completed,2601:5c4:c780:1470:20fb:bd95:5da6:5452,2/21/24 22:58,0,111,1,,,,,,,,,US,VA,,2/21/24,Wednesday,9-11 pm,1,1,0,0,0,0,10 min,"149 - docstrings, equality with == vs is"
+117254675,Completed,134.126.113.82,2/22/24 18:59,0,127,1,,,,,,,,,US,VA,,2/22/24,Thursday,5-7 pm,8,3,3,0,2,0,5 minutes,if statements
+117257385,Completed,134.126.113.120,2/22/24 20:56,0,134,1,,,,,,,,,US,VA,,2/22/24,Thursday,7-9 pm,10,4,1,0,5,0,10-15 mins,"149: misunderstandings on HW 5.4, the tasks problem 240: HybridDeque in general, mostly what the functions are supposed to do"
+117259369,Completed,73.99.87.156,2/22/24 23:02,0,14,1,,,,,,,,,US,VA,,2/22/24,Thursday,9-11 pm,0,0,0,0,0,0,,
+117371946,Completed,134.126.113.66,2/25/24 17:02,0,94,1,,,,,,,,,US,VA,,2/25/24,Sunday,3-5 pm Sunday only,13,3,8,0,2,0,15 min,"149 - for loops and lists 159 - testing constructors, objects 240 - iterators, remove First/Last occurrence"
+117373282,Completed,134.126.113.82,2/25/24 19:07,0,80,1,,,,,,,,,US,VA,,2/25/24,Sunday,5-7 pm,16,2,13,0,1,0,12 minutes,159 understanding deep copies 
+117375447,Completed,73.251.214.183,2/25/24 22:20,0,80,1,,,,,,,,,US,VA,,2/25/24,Sunday,7-9 pm,22,2,16,0,4,0,10,"159 - copy constructor, not knowing to check in bounds indexes, etc. 240 - Equals method for dequeue"
+117440300,Completed,2605:ad80:20:2b64:70cf:3f45:e7b9:79d9,2/26/24 08:07,0,148,1,,,,,,,,,US,VA,,2/25/24,Sunday,9-11 pm,2,0,1,0,1,0,20-30min,159: understanding gradescope errors 240: first and last methods of pa2
+117506362,Completed,134.126.113.17,2/26/24 18:57,0,203,1,,,,,,,,,US,VA,,2/26/24,Monday,5-7 pm,26,0,20,0,6,0,10,"159 - index out of bounds , constructors, deep copies 240 - shifting left after removal, 4, 3 cursor thingy"
+117508943,Completed,134.126.113.120,2/26/24 21:00,0,81,1,,,,,,,,,US,VA,,2/26/24,Monday,7-9 pm,26,0,21,0,5,0,10-15 minutes,159: deep copy v.s. shallow copy and the toString method 240: HybridDequeue iterators (especially with remove)
+117511466,Completed,73.99.87.156,2/26/24 23:10,0,172,1,,,,,,,,,US,VA,,2/26/24,Monday,9-11 pm,5,0,4,0,1,0,~30 minutes,"159: Scrabble HW5, help understanding the concept of OOP, isolating and operating on portions of arrays 240: running junit tests"
+117561097,Completed,134.126.113.22,2/27/24 20:58,0,225,1,,,,,,,,,US,VA,,2/27/24,Tuesday,7-9 pm,15,5,5,0,5,0,10-20mins,"149: dictionaries and how to access the keys and values when printing, as well as logic when removing items 159: logic errors, vague grade scope messages, scrabble hw 240: pa2 deque remove, branch/coverage, lab "
+117630459,Completed,134.126.113.82,2/28/24 21:04,0,155,1,,,,,,,,,US,VA,,2/28/24,Wednesday,7-9 pm,20,10,1,0,10,0,10 minutes,"modulo, for loops, 240 pa, weird file io 159 errors"
+117633441,Completed,2601:5c4:c780:1470:2047:a560:419d:7f12,2/28/24 22:57,0,173,1,,,,,,,,,US,VA,,2/28/24,Wednesday,9-11 pm,0,0,0,0,0,0,,
+117655570,Completed,134.126.113.17,2/29/24 09:54,0,174,1,,,,,,,,,US,VA,,2/28/24,Wednesday,5-7 pm,9,4,0,0,5,0,15 minutes,240: A lot of issues understanding what the cursors were pointing at and doing. Not enough students using the debugger 149: Students needing help starting their HW assignments.
+117655716,Completed,134.126.113.17,2/29/24 09:57,0,65,1,,,,,,,,,US,VA,,2/27/24,Tuesday,9-11 pm,1,0,0,0,1,0,20 minutes,240- Student needed help understanding recursion for his lab
+117688578,Completed,134.126.113.82,2/29/24 19:04,0,160,1,,,,,,,,,US,VA,,2/29/24,Thursday,5-7 pm,19,1,8,0,7,3,10 minutes,"iterator remove method, file i/o, and 261 pointers"
+117695192,Completed,134.126.113.120,2/29/24 21:06,0,111,1,,,,,,,,,US,VA,,2/29/24,Thursday,7-9 pm,21,1,3,0,15,3,10-20 mins,"240: remove, also iterators (both), also people wrote not the best tests 261: getopt (cmdline flags), alinement (printing) "
+117699927,Completed,73.99.87.156,2/29/24 23:03,0,91,1,,,,,,,,,US,VA,,2/29/24,Thursday,9-11 pm,5,0,1,0,3,1,30-40 minutes,240: pa2 iterator issues 159: writing tests for file writing 261: project 2 output
+117796681,Completed,134.126.113.66,3/3/24 15:37,0,5201,1,,,,,,,,,US,VA,,3/3/24,Sunday,3-5 pm Sunday only,8,1,7,0,0,0,10 min,"159 - Printwriters, scanners, reviewing classes from the last homework (Letter, Hand, Board)"
+117799993,Completed,134.126.113.82,3/3/24 18:58,0,142,1,,,,,,,,,US,VA,,3/3/24,Sunday,5-7 pm,20,2,17,0,0,1,7 minutes,159 files being read and testing coverage
+117806398,Completed,73.251.214.183,3/4/24 02:16,0,53,1,,,,,,,,,US,VA,,3/4/24,Sunday,7-9 pm,11,0,11,0,0,1,10,"159-lots of understanding static, testing issues"
+117815745,Completed,2605:ad80:20:2b64:6962:71b9:ba52:afb8,3/4/24 08:13,0,184,1,,,,,,,,,US,VA,,3/4/24,Sunday,9-11 pm,7,0,6,0,0,1,10-30mins,159: how to test readscrabble/savescabble for hw 6 261: help with midterm review problems
+117819711,Completed,73.251.214.183,3/4/24 09:41,0,47,1,,,,,,,,,US,VA,,3/3/24,Sunday,7-9 pm,12,0,11,0,0,1,10,"159-testing, understanding split, "
+117841865,Completed,134.126.113.120,3/4/24 20:57,0,147,1,,,,,,,,,US,VA,,3/4/24,Monday,7-9 pm,16,0,14,0,0,2,10-15 minutes,"159: round-trip testing, path for file testing (make a longer note of that later) 261: free"
+117844366,Completed,73.99.87.156,3/4/24 22:59,0,83,1,,,,,,,,,US,VA,,3/4/24,Monday,9-11 pm,4,1,3,0,0,0,15-20 minutes,"149: while loops 159: readScrabble, using scanner "
+117885415,Completed,73.251.214.183,3/5/24 18:52,0,60,1,,,,,,,,,US,VA,,3/5/24,Monday,5-7 pm,21,6,15,0,0,0,10,"149 - Loops, understanding directions 159 - reading in and writing to files"
+117885494,Completed,134.126.113.50,3/5/24 18:54,0,237,1,,,,,,,,,US,VA,,3/5/24,Tuesday,5-7 pm,3,2,1,0,0,0,~15 minutes,159: practice test help 149: while loop hw spin_wheel()
+117888705,Completed,2600:387:f:741b::7,3/5/24 21:06,0,46,1,,,,,,,,,US,OK,,3/5/24,Tuesday,7-9 pm,1,0,1,0,0,0,5 min,159: midterm review exam
+117924564,Completed,134.126.113.17,3/6/24 18:57,0,144,1,,,,,,,,,US,VA,,3/6/24,Wednesday,5-7 pm,2,2,0,0,0,0,10 minutes,149: questions about while loops and for loops
+117924621,Completed,134.126.113.17,3/6/24 18:59,0,67,1,,,,,,,,,US,VA,,3/5/24,Tuesday,9-11 pm,1,0,0,0,0,1,15 minutes,261: needed help understanding elf file structure
+117928063,Completed,134.126.113.82,3/6/24 21:00,0,114,1,,,,,,,,,US,VA,,3/6/24,Wednesday,7-9 pm,7,7,0,0,0,0,5 minutes,loops
+117930355,Completed,2601:5c4:c780:110:8d16:ee04:63fd:e58a,3/6/24 22:54,0,399,1,,,,,,,,,US,VA,,3/6/24,Wednesday,9-11 pm,4,1,1,0,0,2,15 min,149 - for loops and dictionaries 159 - memory diagrams 261 - reading a header
+117967429,Completed,134.126.113.82,3/7/24 18:56,0,50,1,,,,,,,,,US,VA,,3/7/24,Thursday,5-7 pm,1,0,0,0,0,1,5 minutes,it was not busy
+117969725,Completed,134.126.113.120,3/7/24 21:00,0,19,1,,,,,,,,,US,VA,,3/7/24,Thursday,7-9 pm,0,0,0,0,0,0,0 minutes,
+117992196,Completed,73.99.87.156,3/8/24 15:04,0,66,1,,,,,,,,,US,VA,,3/7/24,Thursday,9-11 pm,3,0,0,0,0,3,~30 min,"261: p2-load: how to read in files to phdr, etc"
+118320024,Completed,134.126.113.120,3/18/24 19:56,0,111,1,,,,,,,,,US,VA,,3/18/24,Monday,7-9 pm,1,0,0,0,1,0,10 mins,240: directions clarification
+118337243,Completed,73.251.214.183,3/19/24 07:08,0,47,1,,,,,,,,,US,VA,,3/19/24,Monday,5-7 pm,3,1,0,0,2,0,20,240 - merge sort 149- random pyton related questions
+118356544,Completed,134.126.113.50,3/19/24 12:45,0,28,1,,,,,,,,,US,VA,,3/18/24,Monday,9-11 pm,0,0,0,0,0,0,,
+118369761,Completed,134.126.113.50,3/19/24 17:58,0,65,1,,,,,,,,,US,VA,,3/19/24,Tuesday,5-7 pm,4,4,0,0,0,0,15-20 min,149: random generator functions
+118373720,Completed,134.126.113.22,3/19/24 19:57,0,33,1,,,,,,,,,US,VA,,3/19/24,Tuesday,7-9 pm,0,0,0,0,0,0,0,
+118401268,Completed,134.126.113.17,3/20/24 13:04,0,25,1,,,,,,,,,US,VA,,3/19/24,Tuesday,9-11 pm,0,0,0,0,0,0,,
+118416204,Completed,134.126.113.17,3/20/24 17:54,0,301,1,,,,,,,,,US,VA,,3/20/24,Wednesday,5-7 pm,2,0,0,0,2,0,15 minutes,Mostly questions about merge sort and how to get the merge sort threshold
+118419126,Completed,134.126.113.82,3/20/24 20:00,0,96,1,,,,,,,,,US,VA,,3/20/24,Wednesday,7-9 pm,6,0,0,0,6,0,15 minutes,mergesort specs 
+118421356,Completed,2601:5c4:c780:1470:b1a4:fc12:4c0c:3d6a,3/20/24 21:58,0,109,1,,,,,,,,,US,VA,,3/20/24,Wednesday,9-11 pm,0,0,0,0,0,0,,
+118465285,Completed,134.126.113.82,3/21/24 18:03,0,149,1,,,,,,,,,US,VA,,3/21/24,Thursday,5-7 pm,13,0,8,0,5,0,7 minutes,240 timing is wonky on windows(?)
+118469073,Completed,134.126.113.120,3/21/24 20:00,0,54,1,,,,,,,,,US,VA,,3/21/24,Thursday,7-9 pm,16,0,8,0,8,0,10-15 mins,240: mergeSortHalf and how to run the SortProfiler 159: super constructors
+118472555,Completed,2601:5c4:c700:6f60:f03e:4993:5c2e:4a6e,3/21/24 23:00,0,51,1,,,,,,,,,US,VA,,3/21/24,Thursday,9-11 pm,0,0,0,0,0,0,,
+118544083,Completed,134.126.113.66,3/24/24 15:57,0,446,1,,,,,,,,,US,VA,,3/24/24,Sunday,3-5 pm Sunday only,10,5,1,0,4,0,10 min,"149 - random generator 240 - sorts, are they correct, does timing look correct "
+118545295,Completed,134.126.113.22,3/24/24 17:58,0,37,1,,,,,,,,,US,VA,,3/24/24,Sunday,5-7 pm,0,0,0,0,0,0,0,NA
+118548946,Completed,134.126.113.22,3/24/24 22:32,0,28,1,,,,,,,,,US,VA,,3/24/24,Sunday,9-11 pm,0,0,0,0,0,0,0,na
+118564359,Completed,134.126.113.17,3/25/24 09:31,0,123,1,,,,,,,,,US,VA,,3/24/24,Sunday,7-9 pm,9,2,5,0,2,0,15,"149-basic questions 159 - not knowing that you have to initialize in the constructor, out of bounds error 240 - not understanding out of bounds errors, passing own tests but failing gradescope "
+118588917,Completed,134.126.113.120,3/25/24 20:00,0,111,1,,,,,,,,,US,VA,,3/25/24,Monday,7-9 pm,19,1,5,0,13,0,10-15 mins,240: the tree lab; introspective sort 159: slideshow picture broken - using wrong super.method()
+118591369,Completed,149.40.58.152,3/25/24 21:56,0,142,1,,,,,,,,,US,NJ,,3/25/24,Monday,9-11 pm,1,0,1,0,0,0,~35 min,159: pictures HW: general confusion with how OOP works
+118626405,Completed,73.251.214.183,3/26/24 07:09,0,60,1,,,,,,,,,US,VA,,3/25/24,Monday,5-7 pm,14,3,4,0,7,0,10,"240-Understanding binary searches and issues with the merging problem, (passing own tests) "
+118663803,Completed,195.181.162.179,3/26/24 19:05,0,96,1,,,,,,,,,US,FL,,3/26/24,Tuesday,5-7 pm,11,2,0,0,7,2,20 minutes or so,"149: pa1 240: finer points of how introspective sort works, such as whether to use math.ceil or floor, etc 261: pa3"
+118668157,Completed,73.31.123.109,3/26/24 22:06,0,73,1,,,,,,,,,US,VA,,3/26/24,Tuesday,9-11 pm,1,0,0,0,1,0,15 minutes,Questions about how to actually build the tree for the tree lab
+118677510,Completed,2605:ad80:20:2b64:f150:f365:eb65:d355,3/27/24 07:08,0,325,1,,,,,,,,,US,VA,,3/26/24,Tuesday,7-9 pm,13,0,2,0,10,1,10-20min,"240: Understanding the provided pseudo code and how to incorporate it into their projects, parse tree lab 159: reading through the project/ understanding the readiness quiz 261: simple logic error within their program"
+118707261,Started,134.126.113.17,3/27/24 18:05,0,108,1,,,,,,,,,US,VA,,3/27/24,Wednesday,5-7 pm,4,0,1,0,3,0,15 minutes,240: had a lot of questions about graphing a mergesort
+118709969,Completed,134.126.113.82,3/27/24 20:02,0,238,1,,,,,,,,,US,VA,,3/27/24,Wednesday,7-9 pm,13,7,0,0,6,0,5 minutes,global scope in 149 and set fifth dice in the PA
+118711760,Completed,2601:5c4:c780:110:98f6:19e:9377:e061,3/27/24 21:59,0,218,1,,,,,,,,,US,VA,,3/27/24,Wednesday,9-11 pm,3,0,0,0,3,0,20 min,"240 - running the driver, figuring out the threshold, debugging out of bounds and infinite loop errors"
+118747242,Completed,134.126.113.82,3/28/24 18:05,0,135,1,,,,,,,,,US,VA,,3/28/24,Thursday,7-9 pm,16,2,2,0,9,3,12 minutes,lots of 240 at various points. 149 students are a little overwhelmed with the PA
+118749415,Completed,134.126.113.120,3/28/24 19:57,0,69,1,,,,,,,,,US,VA,,3/28/24,Thursday,7-9 pm,12,1,1,0,9,1,15-Oct,240: intro sort and merge sort having index issues 159: used attributes from subclass when they should've used superclass 149: just the PA in general is not good
+118751097,Completed,2601:5c4:c700:6f60:d707:38ca:eea7:1354,3/28/24 22:01,0,67,1,,,,,,,,,US,VA,,3/28/24,Thursday,9-11 pm,1,1,0,0,0,0,25 min,"149: indentation, variable scope"
+118761979,Completed,2600:1003:b868:8724:0:18:4496:1701,3/29/24 08:24,0,103,1,,,,,,,,,US,VA,,3/28/24,Thursday,5-7 pm,16,2,2,0,9,3,11 minutes ,"240 various progress on the PA, the 149 PA was a little confusing"
+118818747,Completed,134.126.113.66,3/31/24 15:53,0,1009,1,,,,,,,,,US,VA,,3/31/24,Sunday,3-5 pm Sunday only,8,5,4,0,0,0,15 min,"149 - understanding the game, returning tuples instead of scores 159 - stack overflow errors, polymorphism, using point.distance()"
+118820524,Completed,134.126.113.120,3/31/24 18:00,0,109,1,,,,,,,,,US,VA,,3/31/24,Sunday,5-7 pm,9,4,4,0,1,0,10-20 minutes,149: the PA as a whole 159: collision 240: AVL tree
+118824291,Completed,2600:387:f:7418::c,3/31/24 22:01,0,347,1,,,,,,,,,US,OK,,3/31/24,Sunday,9-11 pm,2,1,1,0,0,0,15-20 min,basic syntax questions for both 
+118842047,Completed,73.251.214.183,4/1/24 11:58,0,71,1,,,,,,,,,US,VA,,3/31/24,Sunday,7-9 pm,4,1,2,0,1,0,30,"149-project specs unclear 159 - general testing, not reading specs 240- time complexities of sorting algorithms "
+118857280,Completed,134.126.113.120,4/1/24 20:00,0,116,1,,,,,,,,,US,VA,,4/1/24,Monday,7-9 pm,12,5,3,0,4,0,10-60 minutes,149: PA bad 159: abstract methods 240: review for midterm
+118861893,Completed,2601:5c4:c700:6f60:c8e3:2f0b:de18:bfd0,4/2/24 01:12,0,80,1,,,,,,,,,US,VA,,4/1/24,Monday,9-11 pm,1,1,0,0,0,0,45 minutes ,"149: dice game PA, understanding the spec and how to iterate through lists "
+118884813,Completed,134.126.113.17,4/2/24 13:32,0,162,1,,,,,,,,,US,VA,,4/1/24,Monday,5-7 pm,12,5,6,0,1,0,10,"149 - PA specs and understanding what it wants 159 - Testing and debugging issues, not reading specs and not realizing there is a distance function 240 - Recursive analysis "
+118894109,Completed,134.126.113.50,4/2/24 17:55,0,132,1,,,,,,,,,US,VA,,4/2/24,Tuesday,5-7 pm,6,3,0,0,3,0,30-40 minutes,"149: Dice game PA, questions about loop keywords continue and break 240: recurrence relations, binary search tree + inorder traversal algorithm"
+118898097,Completed,2600:387:f:7411::8,4/2/24 20:33,0,51,1,,,,,,,,,US,OK,,4/2/24,Tuesday,7-9 pm,0,0,0,0,0,0,NA,NA
+118988930,Completed,134.126.113.82,4/3/24 20:08,0,156,1,,,,,,,,,US,VA,,4/3/24,Wednesday,7-9 pm,20,14,3,0,0,3,11 minutes,149 Understanding sepcs
+118991433,Completed,2601:5c4:c780:1470:fc44:c51c:7c5:8c9a,4/3/24 22:25,0,80,1,,,,,,,,,US,VA,,4/3/24,Wednesday,9-11 pm,2,1,0,0,0,1,15 min,"149 - functions, loops, imports 261 - understanding p3 errors"
+119030194,Completed,134.126.113.82,4/4/24 17:59,0,39,1,,,,,,,,,US,VA,,4/4/24,Thursday,5-7 pm,7,2,5,0,0,0,5 minutes,duckman
+119033698,Completed,134.126.113.120,4/4/24 19:57,0,64,1,,,,,,,,,US,VA,,4/4/24,Thursday,7-9 pm,6,3,3,0,0,0,10-15 mins ,149: everything 159: inheritance
+119063571,Completed,134.126.113.50,4/5/24 14:26,0,23,1,,,,,,,,,US,VA,,4/4/24,Thursday,9-11 pm,0,0,0,0,0,0,,
+119116867,Completed,134.126.113.66,4/7/24 16:07,0,36,1,,,,,,,,,US,VA,,4/7/24,Sunday,3-5 pm Sunday only,3,0,3,0,0,0,15 min,159 - enemy updates and inheritance
+119118830,Completed,134.126.113.82,4/7/24 18:00,0,217,1,,,,,,,,,US,VA,,4/7/24,Sunday,5-7 pm,2,0,2,0,0,0,10 minutes,159 duckman
+119124485,Completed,2605:ad80:20:2b64:b0d8:f4de:130f:752f,4/7/24 22:50,0,180,1,,,,,,,,,US,VA,,4/7/24,Sunday,9-11 pm,2,0,2,0,0,0,10-20mins,159: Simple logic issues when updating the score and how to implement the functionality for the enemies
+119124498,Completed,73.251.214.183,4/7/24 22:50,0,17,1,,,,,,,,,US,VA,,4/7/24,Sunday,7-9 pm,0,0,0,0,0,0,0,
+119159261,Completed,134.126.113.120,4/8/24 18:00,0,28,1,,,,,,,,,US,VA,,4/8/24,Monday,5-7 pm,8,0,8,0,0,0,10-15 mins,159: enemy chasing
+119161781,Completed,134.126.113.120,4/8/24 19:59,0,22,1,,,,,,,,,US,VA,,4/8/24,Monday,7-9 pm,1,0,1,0,0,0,10-15 mins,
+119175133,Completed,134.126.113.50,4/9/24 07:08,0,63,1,,,,,,,,,US,VA,,4/8/24,Monday,9-11 pm,0,0,0,0,0,0,,
+119202379,Completed,134.126.113.22,4/9/24 19:46,0,63,1,,,,,,,,,US,VA,,4/9/24,Tuesday,7-9 pm,1,0,0,0,1,0,2min,240: time complexities 
+119204060,Completed,146.70.147.99,4/9/24 21:08,0,396,1,,,,,,,,,US,FL,,4/9/24,Tuesday,5-7 pm,1,0,1,0,0,0,10 minutes,159: practice test questions
+119218756,Completed,134.126.113.17,4/10/24 10:01,0,33,1,,,,,,,,,US,VA,,4/9/24,Tuesday,9-11 pm,0,0,0,0,0,0,,
+119218778,Completed,134.126.113.17,4/10/24 10:02,0,90,1,,,,,,,,,US,VA,,4/2/24,Tuesday,9-11 pm,1,1,0,0,0,0,20 minutes,Helping understand how calculating the correct dice rolls works.
+119218831,Completed,134.126.113.17,4/10/24 10:03,0,114,1,,,,,,,,,US,VA,,4/3/24,Wednesday,5-7 pm,8,7,1,0,0,0,20 minutes,149: A lot of questions about calculating the errors with the different rolls and how to different lists relate to each other.
+119236439,Started,134.126.113.17,4/10/24 17:55,0,76,1,,,,,,,,,US,VA,,4/10/24,Wednesday,5-7 pm,1,0,1,0,0,0,10 minutes,Difference between static and non-static methods
+119239514,Completed,134.126.113.82,4/10/24 19:56,0,48,1,,,,,,,,,US,VA,,4/10/24,Wednesday,7-9 pm,2,0,0,0,2,0,5 minutes,n/a
+119242440,Completed,2601:5c4:c780:110:8133:83b5:59e4:e670,4/10/24 22:15,0,70,1,,,,,,,,,US,VA,,4/10/24,Wednesday,3-5 pm Sunday only,2,2,0,0,0,0,15 min,149 - reading/writing files
+119252462,Completed,134.126.113.66,4/11/24 08:35,0,28,1,,,,,,,,,US,VA,,4/11/24,Wednesday,9-11 pm,2,2,0,0,0,0,15 min,149 - reading/writing files
+119275811,Completed,134.126.113.82,4/11/24 18:02,0,36,1,,,,,,,,,US,VA,,4/11/24,Thursday,5-7 pm,0,0,0,0,0,0,0,n/a
+119278530,Completed,134.126.113.120,4/11/24 20:02,0,23,1,,,,,,,,,US,VA,,4/11/24,Thursday,7-9 pm,2,0,0,0,1,1,10-15 mins,
+119280810,Completed,2601:5c4:c700:6f60::ca98,4/11/24 22:00,0,15,1,,,,,,,,,US,VA,,4/11/24,Thursday,9-11 pm,0,0,0,0,0,0,,
+119364104,Completed,134.126.113.66,4/14/24 15:58,0,86,1,,,,,,,,,US,VA,,4/14/24,Sunday,3-5 pm Sunday only,5,5,0,0,0,0,15 min,"149 - reading and writing files, iterating through words, ntlk import"
+119366137,Completed,134.126.113.82,4/14/24 17:59,0,57,1,,,,,,,,,US,VA,,4/14/24,Sunday,5-7 pm,3,3,0,0,0,0,10 minutes,file io
+119369971,Completed,2605:ad80:20:2b64:4d3c:1ae1:f897:1e88,4/14/24 22:15,0,393,1,,,,,,,,,US,VA,,4/14/24,Sunday,9-11 pm,2,2,0,0,0,0,30-40,149: logic errors when checking for duplicates and indexing through a string 
+119369987,Completed,73.251.214.183,4/14/24 22:16,0,40,1,,,,,,,,,US,VA,,4/14/24,Sunday,7-9 pm,2,1,0,0,1,0,14,240 - huffman trees 149 - lists v lists runtime speed
+119408645,Completed,134.126.113.17,4/15/24 17:58,0,50,1,,,,,,,,,US,VA,,4/15/24,Monday,5-7 pm,4,2,0,0,2,0,15,"240 - hashtables 149 - importing functions, setting return to variables"
+119412990,Completed,134.126.141.147,4/15/24 19:55,0,35,1,,,,,,,,,US,,,4/15/24,Monday,7-9 pm,7,0,0,0,7,0,10-15 mins,"240: zip in madzip, indexes in the hashing lab"
+119418329,Completed,2601:5c4:c700:6f60:c8e3:2f0b:de18:bfd0,4/15/24 23:46,0,25,1,,,,,,,,,US,VA,,4/16/24,Monday,9-11 pm,0,0,0,0,0,0,,
+119459945,Completed,134.126.113.50,4/16/24 09:10,0,24,1,,,,,,,,,US,VA,,4/16/24,Monday,9-11 pm,0,0,0,0,0,0,,
+119494529,Completed,134.126.113.50,4/16/24 18:00,0,165,1,,,,,,,,,US,VA,,4/16/24,Tuesday,5-7 pm,4,3,0,0,1,0,15-20 minutes,149: squares pa: file io/string manipulation 240: hashtable lab gradescope error hunt
+119498957,Completed,134.126.113.22,4/16/24 19:47,0,156,1,,,,,,,,,US,VA,,4/16/24,Tuesday,7-9 pm,2,0,1,0,1,0,Oct-40,159: helping get started with the judge interface for HW9 240: Problems with the debugger 
+119555566,Completed,134.126.113.17,4/17/24 18:03,0,123,1,,,,,,,,,US,VA,,4/17/24,Wednesday,5-7 pm,8,3,0,0,5,0,15 minutes,240: Lots of questions about how to build and traverse Huffman Trees
+119558869,Completed,134.126.113.82,4/17/24 20:03,0,49,1,,,,,,,,,US,VA,,4/17/24,Wednesday,7-9 pm,10,3,2,0,5,0,15 minutes,huffman trees
+119561843,Completed,2601:5c4:c700:c3d0:4507:6a5:d7f:d4dc,4/17/24 22:00,0,36,1,,,,,,,,,US,VA,,4/17/24,Wednesday,9-11 pm,1,0,1,0,0,0,10 mins,159: clarification on the instructions for HW9
+119630408,Completed,134.126.113.82,4/18/24 18:01,0,93,1,,,,,,,,,US,VA,,4/18/24,Thursday,5-7 pm,22,10,9,0,3,0,10 minutes,"huffman trees, 149 recursion"
+119636350,Completed,134.126.113.120,4/18/24 19:56,0,98,1,,,,,,,,,US,VA,,4/18/24,Thursday,7-9 pm,16,2,6,0,8,0,10-15 mins,149: instructions 159: the RoundRobin matchupBuild 240: Everything
+119640905,Completed,73.99.87.156,4/18/24 22:02,0,47,1,,,,,,,,,US,VA,,4/18/24,Thursday,9-11 pm,1,0,1,0,0,0,10 minutes,"159: tournament homework, implementing a helper function"
+119777394,Completed,134.126.113.66,4/21/24 15:57,0,137,1,,,,,,,,,US,VA,,4/21/24,Sunday,3-5 pm Sunday only,9,3,4,0,2,0,15 min,"149 - iterating through lists of letters, verifying no repeats 159 - jar files, understanding matchups/participants 240 - serializing, unzipping"
+119779543,Completed,134.126.113.82,4/21/24 18:05,0,137,1,,,,,,,,,US,VA,,4/21/24,Sunday,5-7 pm,14,4,6,0,4,0,10 minutes,buildschedule()
+119781617,Completed,134.126.113.17,4/21/24 19:55,0,197,1,,,,,,,,,US,VA,,4/21/24,Sunday,7-9 pm,9,2,6,0,2,0,15,149 - understanding return types and default parameters on function calls 159 - creating a map with two iterators 240 - huffman tree pa
+119797006,Completed,2605:ad80:20:2b64:19c6:b10b:45f7:6d47,4/22/24 07:08,0,77,1,,,,,,,,,US,VA,,4/21/24,Sunday,9-11 pm,1,0,1,0,0,0,15,159: issues with the jar file for hw9
+119844443,Completed,134.126.113.17,4/22/24 18:12,0,220,1,,,,,,,,,US,VA,,4/22/24,Monday,5-7 pm,25,4,20,0,1,0,10,"149 - the current PA, just simple issues and confusions about the functions 159 - the build schedule function and how to use iterators 240 - starting the huffman tree pa"
+119850023,Completed,134.126.113.120,4/22/24 20:00,0,58,1,,,,,,,,,US,VA,,4/22/24,Monday,7-9 pm,25,7,13,0,5,0,10-15 mins,149: import files 159: iterators and the buildtournament 240: everything
+119854375,Completed,73.99.87.156,4/22/24 22:01,0,55,1,,,,,,,,,US,VA,,4/22/24,Monday,9-11 pm,3,0,1,0,2,0,20-30 minutes,"240: MadZip PA 159: tournament hw, how to implement high and low wins"
+119931366,Completed,134.126.113.66,4/23/24 18:02,0,205,1,,,,,,,,,US,VA,,4/23/24,Tuesday,5-7 pm,12,5,0,0,7,0,15 min,"149 - checking validity, loop out of bounds, list indexing 240 - unzipping, encoding"
+119938980,Completed,134.126.113.22,4/23/24 20:54,0,335,1,,,,,,,,,US,VA,,4/23/24,Tuesday,7-9 pm,14,9,0,0,5,0,15-20min,"149: Understanding what the code is asking for and the logic behind it, spec not matching up with older versions of the starter file 240: Check style, Logic errors"
+119993240,Completed,134.126.113.82,4/24/24 19:58,0,237,1,,,,,,,,,US,VA,,4/24/24,Wednesday,7-9 pm,20,1,3,0,15,0,10 minutes,240 huffman
+119996735,Completed,2601:5c4:c780:110:f198:a62:6355:1db5,4/24/24 21:59,0,110,1,,,,,,,,,US,VA,,4/24/24,Wednesday,9-11 pm,2,0,0,0,2,0,45 min,240 - compare to and how it was messing up a bunch of grade scope tests
+120035903,Completed,134.126.113.82,4/25/24 18:04,0,94,1,,,,,,,,,US,VA,,4/25/24,Thursday,5-7 pm,12,2,7,0,4,0,10 minutes,huffman trees
+120112223,Completed,134.126.113.66,4/28/24 15:57,0,144,1,,,,,,,,,US,VA,,4/28/24,Sunday,3-5 pm Sunday only,6,3,3,0,0,0,15 min,"149 - maps, valid words 159 - understanding recursion"
+120113837,Completed,134.126.113.82,4/28/24 18:01,0,93,1,,,,,,,,,US,VA,,4/28/24,Sunday,5-7 pm,8,1,7,0,0,0,15 minutes,159 recursion
+120116490,Completed,73.99.87.156,4/28/24 21:12,0,44,1,,,,,,,,,US,VA,,4/28/24,Thursday,9-11 pm,1,0,1,0,0,0,20 minutes,"159: tournament pa, help with private helper"
+120157123,Completed,134.126.113.120,4/29/24 20:02,0,53,1,,,,,,,,,US,VA,,4/29/24,Monday,7-9 pm,17,3,11,2,1,0,10-15 mins,159: record recursion 240: review for final 261: seg faults
+120157582,Completed,73.251.214.183,4/29/24 20:21,0,253,1,,,,,,,,,US,VA,,4/29/24,Sunday,5-7 pm,37,9,25,0,0,3,10,"149 - indentation 159- not reading the specs, not making things recursive, not understanding maps, making things iteratrive 261- seg faults"
+120159488,Completed,73.99.87.156,4/29/24 22:04,0,55,1,,,,,,,,,US,VA,,4/29/24,Monday,9-11 pm,2,0,2,0,0,0,30 minutes,159: calculateStandings in tournament pa
+120204671,Completed,134.126.113.22,4/30/24 19:06,0,164,1,,,,,,,,,US,VA,,4/28/24,Sunday,9-11 pm,4,0,1,0,0,0,15-20min,"159: Most student's ha questions pertaining to the logic behind setting up the standings function, how to incorporate the functions the already/ understanding those functions and how to make it recursive"
+120204742,Completed,134.126.113.22,4/30/24 19:08,0,3167,1,,,,,,,,,US,VA,,4/30/24,Tuesday,7-9 pm,4,3,1,0,0,0,10-15 min,"149: PA simple logic errors, walking/talking through it together 159: HW 9 help grasping what was being asked of them"
+120207019,Completed,73.31.123.109,4/30/24 20:34,0,1278,1,,,,,,,,,US,VA,,4/25/24,Thursday,7-9 pm,9,0,4,0,5,0,20 minutes,159: Recursive calls 240: How to correctly encode files using bitsequence
+120207490,Completed,73.31.123.109,4/30/24 20:55,0,98,1,,,,,,,,,US,VA,,4/24/24,Wednesday,5-7 pm,4,0,1,0,3,0,20 minutes,240: How to unzip the encoded files with the huffman tree
+120207525,Completed,73.31.123.109,4/30/24 20:57,0,365,1,,,,,,,,,US,VA,,4/23/24,Tuesday,9-11 pm,5,3,0,0,1,1,20 minutes,240: not accounting for edge cases 149: Throwing incorrect errors when checking a word
+120210216,Completed,73.31.123.109,4/30/24 23:22,0,72,1,,,,,,,,,US,VA,,4/30/24,Tuesday,9-11 pm,3,1,2,0,0,0,15 minutes,159: recursion in the scoring function
+120210877,Completed,73.99.87.156,5/1/24 00:21,0,83,1,,,,,,,,,US,VA,,4/30/24,Tuesday,5-7 pm,8,4,4,0,0,0,20 minutes,"159: tournament pa, mathdice hw 149: reading lines hw"

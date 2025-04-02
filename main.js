@@ -70,21 +70,29 @@ async function init() {
   formElem.addEventListener("submit", function (event) {
     event.preventDefault();
     const formData = new FormData(formElem);
-    const file = formData.get("csv");
-
-    csvToChartData(file);
+    const files = formData.getAll("csv");
+    // debugger;
+    Promise.all(files.map(file=>csvToChartData(file)))
+      .then((semesters) => {
+        semesters.forEach(({labels,datavals, uniqueCounts}, i) => {
+          console.log(i, uniqueCounts, labels, datavals);
+        });
+    });
   });
 }
 
 function csvToChartData(file) {
-  Papa.parse(file, {
-    header: true, // Set to false if your CSV does not have headers
-    transformHeader: noNBSP,
-    transform: noNBSP,
-    skipEmptyLines: true,
-    beforeFirstChunk: beforeFirstChunk,
-    complete: didParse,
+  const semesterResultsPromise = new Promise((resolve, reject) => {
+    Papa.parse(file, {
+      header: true, // Set to false if your CSV does not have headers
+      transformHeader: noNBSP,
+      transform: noNBSP,
+      skipEmptyLines: true,
+      beforeFirstChunk: beforeFirstChunk,
+      complete: r => resolve(didParse(r, file)),
+    });
   });
+  return semesterResultsPromise;
 }
 
 function taDataToChartData(data) {
@@ -368,7 +376,7 @@ function makeAggregateChart(
             display: true,
             text: "helped", // Y-axis label
           },
-          max: 70,
+          suggestedMax: 70,
         },
       },
     },
@@ -463,19 +471,20 @@ function addChartContainer(container, title, isOpen = false) {
   return lineCanvas;
 }
 
-function didParse(results) {
+function didParse(results, file) {
   const { labels, datavals, uniqueCounts } = taDataToChartData(results.data);
   const chartContainer = document.getElementById("attendance-charts");
   // makeAggregateChart({ labels, datavals }, addAggregateChartContainer(chartContainer, "All Courses", true));
   makeAggregateChart(
     { labels, datavals: uniqueCounts },
-    addAggregateChartContainer(chartContainer, "All Courses", true)
+    addAggregateChartContainer(chartContainer, `All Courses ${file.name}`, true)
   );
 
   // if the first chart is interactive, maybe we don't want the subsequent?
   // LINES.forEach((line, i) => {
   //   makeIndividualChart({labels, datavals}, line, i, addChartContainer(chartContainer, line));
   // })
+  return {labels, datavals, uniqueCounts};
 }
 
 init();
