@@ -68,20 +68,41 @@ async function init() {
   // document.getElementById("csvFileInput").addEventListener("change", function (event) {
   const formElem = document.getElementById("file-selection-form");
   formElem.addEventListener("submit", function (event) {
+    console.log('got submit')
     event.preventDefault();
     const formData = new FormData(formElem);
     const files = formData.getAll("csv");
     // debugger;
-    Promise.all(files.map(file=>csvToChartData(file)))
+    Promise.all(files.map(file=>csvToChartData(file, file.name)))
       .then((semesters) => {
         semesters.forEach(({labels,datavals, uniqueCounts}, i) => {
           console.log(i, uniqueCounts, labels, datavals);
         });
     });
   });
+  const defaultBtn = document.getElementById('default-button');
+  defaultBtn.addEventListener('click', async (ev) => {
+    // ev.preventDefault();
+    ev.stopPropagation();
+    const defaultData = [
+      // 'sanitized-logs/1231-spring23-ta-hours-log-sanitized.csv', // we don't have info about which course attendees were asking about in s23
+      'sanitized-logs/1238-fall23-ta-hours-log-sanitized.csv',
+      'sanitized-logs/1241-spring24-ta-hours-log-sanitized.csv',
+      'sanitized-logs/1248-fall24-ta-hours-log-sanitized.csv',
+      'sanitized-logs/1251-spring25-to-date-sanitized.csv',
+    ];
+    const csvText = await Promise.all(defaultData.map(async filename=>(await fetch(filename)).text()))
+    console.log('csvText', csvText)
+    const results = await Promise.all(csvText.map((file,i) => csvToChartData(file, defaultData[i])))
+      .then((semesters) => {
+        semesters.forEach(({ labels, datavals, uniqueCounts }, i) => {
+          console.log(i, uniqueCounts, labels, datavals);
+        });
+      });
+  })
 }
 
-function csvToChartData(file) {
+function csvToChartData(file, dataLabel) {
   const semesterResultsPromise = new Promise((resolve, reject) => {
     Papa.parse(file, {
       header: true, // Set to false if your CSV does not have headers
@@ -89,7 +110,7 @@ function csvToChartData(file) {
       transform: noNBSP,
       skipEmptyLines: true,
       beforeFirstChunk: beforeFirstChunk,
-      complete: r => resolve(didParse(r, file)),
+      complete: r => resolve(didParse(r, file, dataLabel)),
     });
   });
   return semesterResultsPromise;
@@ -471,13 +492,14 @@ function addChartContainer(container, title, isOpen = false) {
   return lineCanvas;
 }
 
-function didParse(results, file) {
+function didParse(results, file, dataLabel) {
   const { labels, datavals, uniqueCounts } = taDataToChartData(results.data);
   const chartContainer = document.getElementById("attendance-charts");
   // makeAggregateChart({ labels, datavals }, addAggregateChartContainer(chartContainer, "All Courses", true));
+  console.log('about to makeaggregate for ', results, file, dataLabel)
   makeAggregateChart(
     { labels, datavals: uniqueCounts },
-    addAggregateChartContainer(chartContainer, `All Courses ${file.name}`, true)
+    addAggregateChartContainer(chartContainer, `All Courses ${dataLabel}`, true)
   );
 
   // if the first chart is interactive, maybe we don't want the subsequent?
