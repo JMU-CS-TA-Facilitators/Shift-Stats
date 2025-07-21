@@ -89,15 +89,26 @@ async function init() {
       'sanitized-logs/1238-fall23-ta-hours-log-sanitized.csv',
       'sanitized-logs/1241-spring24-ta-hours-log-sanitized.csv',
       'sanitized-logs/1248-fall24-ta-hours-log-sanitized.csv',
-      'sanitized-logs/1251-spring25-to-date-sanitized.csv',
+      // 'sanitized-logs/1251-spring25-to-date-sanitized.csv',
+      'sanitized-logs/1251-spring25-sanitized.csv',
     ];
     const csvText = await Promise.all(defaultData.map(async filename=>(await fetch(filename)).text()))
     console.log('csvText', csvText)
     const results = await Promise.all(csvText.map((file,i) => csvToChartData(file, defaultData[i])))
       .then((semesters) => {
+        let allTime = {
+          labels:[], datavals:[], uniqueCounts:[]
+        }
+        console.log("semesters", semesters)
         semesters.forEach(({ labels, datavals, uniqueCounts }, i) => {
-          console.log(i, uniqueCounts, labels, datavals);
+          allTime.labels = allTime.labels.concat(labels)
+          allTime.datavals = allTime.datavals.concat(datavals)
+          allTime.uniqueCounts = allTime.uniqueCounts.concat(uniqueCounts)
         });
+        makeAggregateChart(
+          { labels:allTime.labels, datavals: allTime.uniqueCounts },
+          addAggregateChartContainer(document.getElementById("attendance-charts"), `All Courses All Time`, true)
+        );
       });
   })
 }
@@ -118,16 +129,14 @@ function csvToChartData(file, dataLabel) {
 
 function taDataToChartData(data) {
   const mapped = data.map((d) => {
+    console.log(d)
+    const totalKeys = ["Approximately how many times did you help a student during your shift?","Approximately how many student-questions were helped in total during your shift? (we understand that this tally may be higher than the number of students in the room because a student may add themselves a 2nd time...)"]
+    const currentTotal = parseInt(d[totalKeys.find(k=>Object.hasOwn(d,k))])
     return {
       date: d["What is the date of the shift you are reporting for?"],
       day: d["Please choose the day of the week."],
       time: d["Please enter the time slot."],
-      total: parseInt(
-        d[
-          "Approximately how many times did you help a student during your shift?"
-        ],
-        10
-      ),
+      total: currentTotal,
       cs149: parseInt(d["How many CS 149 students?"], 10),
       cs159: parseInt(d["How many CS 159 Students?"], 10),
       cs227: parseInt(d["How many CS 227 Students?"], 10),

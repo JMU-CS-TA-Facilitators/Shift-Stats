@@ -1,4 +1,4 @@
-﻿Data Export Generated on Wed Apr 02 13:58:15 PDT 2025,,,,,,,,,,,,,,,,,,,,,,,,,,,
+﻿Data Export Generated on Tue Jun 03 09:25:00 PDT 2025,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Survey ID 12435362,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Dashboard Name My Dashboard,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Response ID,Response Status,IP Address,Timestamp (mm/dd/yyyy),Duplicate,Time Taken to Complete (Seconds),Seq. Number,External Reference,shift,lift,tift,biffed,Custom Variable 5,Respondent Email,Email List,Country Code,Region,What is the date of the shift you are reporting for?,Please choose the day of the week.,Please enter the time slot.,Approximately how many times did you help a student during your shift?,How many CS 149 students?,How many CS 159 Students?,How many CS 227 Students?,How many CS 240 Students?,How many CS 261 Students?,Comment on how long TAs generally spent with a given student during your shift.,What were the most common problems being addressed. Ideally these would be prefaced with the course number.
@@ -95,3 +95,67 @@ Response ID,Response Status,IP Address,Timestamp (mm/dd/yyyy),Duplicate,Time Tak
 191525471,Completed,134.126.113.123,3/31/25 17:54,0,65,1,,,,,,,,,US,VA,3/31/25,Monday,7-9 pm,5,1,3,0,0,1,10-15 mins,149: points for the dice 159: hardness was bad for constructor
 191553567,Completed,134.126.141.39,4/1/25 16:15,0,123,1,,,,,,,,,US,VA,4/1/25,Tuesday,5-7 pm,8,4,0,0,2,2,bit longer than usually clodser to 15-20 minutes,"149 - how to search dictionaries 240 - introsort and how to test program 261 - p2 main and read phdr, load program"
 191555561,Completed,134.126.141.39,4/1/25 18:01,0,195,1,,,,,,,,,US,VA,4/1/25,Tuesday,7-9 pm,9,3,0,0,5,1,"longer than usually, minscule 240 errors","149 - PA1 understanding the specs 240 - Merge sort sizing and merge, 261 - fseek"
+191583665,Completed,73.99.62.213,4/2/25 20:29,0,49,1,,,,,,,,,US,VA,4/2/25,Wednesday,9-11 pm,0,0,0,0,0,0,0`,n0ne
+191612826,Completed,134.126.113.75,4/3/25 16:22,0,66,1,,,,,,,,,US,VA,4/3/25,Thursday,7-9 pm,11,5,2,0,3,1,15 mins,Poker dice
+191616893,Completed,2605:ad80:20:2449:a521:51fd:a3be:fa0e,4/3/25 19:24,0,42,1,,,,,,,,,US,VA,4/3/25,Thursday,7-9 pm,8,4,0,0,1,3,About 15 minutes,CS159 - Tests for small and large straight
+191617624,Completed,2605:ad80:20:2449:a521:51fd:a3be:fa0e,4/3/25 20:29,0,31,1,,,,,,,,,US,VA,4/3/25,Thursday,9-11 pm,2,2,0,0,0,0,15-hour,159 - Problems with small and large straight
+191676564,Completed,134.126.141.39,4/6/25 14:00,0,3,1,,,,,,,,,US,VA,4/6/25,Sunday,3-5 pm Sunday only,8,0,1,0,3,4,15-20 minutes,159 - Reading/Interpreting a Teethbrush file 240 - Understanding what to graph/converting generic to subsort for introspective sort 261 - Disassembly + Fetching bytes for P3
+191677748,Completed,134.126.113.123,4/6/25 15:56,0,53,1,,,,,,,,,US,VA,4/6/25,Sunday,5-7 pm,5,0,2,0,1,2,15-30 mins,159: exceptions and try-catch 240: JUnit tests not working for some reason 261: disassemble code and data
+191678883,Completed,134.126.113.86,4/6/25 18:00,0,57,1,,,,,,,,,US,VA,4/6/25,Sunday,7-9 pm,6,0,4,0,1,1,15 minutes,159: file writing help 261: understanding how to dump data
+191701830,Completed,134.126.113.123,4/7/25 18:00,0,129,1,,,,,,,,,US,VA,4/7/25,Monday,7-9 pm,7,0,1,2,4,0,15-30 mins,159: compareTo 240: Threshold 261: everything with p3
+191702942,Completed,75.102.137.39,4/7/25 20:33,0,195,1,,,,,,,,,US,VA,4/7/25,Monday,5-7 pm,13,0,5,0,4,4,10-15 minutes,159 - HW and recursion 240 - recursion and comparing sorts 261 - fetching and working with bit wise and
+191724678,Completed,134.126.141.39,4/8/25 16:04,0,493,1,,,,,,,,,US,VA,4/8/25,Tuesday,5-7 pm,10,1,1,1,0,7,"generally a good amount of time, (5-15 minutes), ","149 - how to give command line argument 159 - using files with scanner vs strings 227 - confusion about factoring for proofs 261 - questions about fetch, benefit of enum constants, building instruction(icode, ifun) for fetch, intepreting multiple bytes for one thing(valC), wrong offset for jmp command"
+191726398,Completed,134.126.141.39,4/8/25 18:04,0,235,1,,,,,,,,,US,VA,4/8/25,Tuesday,7-9 pm,6,0,3,0,0,3,bit longer than usually (15-25 minutes),"159 - submitted to gradescope(symbol not reconize), and testread for csvfileproccessor 261 - defining local variables in a switch case"
+191727534,Completed,75.102.137.39,4/8/25 20:01,0,58,1,,,,,,,,,US,VA,4/8/25,Tuesday,9-11 pm,1,1,0,0,0,0,30 minutes,149 - string manipulation.
+191768486,Completed,73.99.62.213,4/9/25 20:11,0,197,1,,,,,,,,,US,VA,4/9/25,Wednesday,9-11 pm,2,1,0,0,0,1,20 mins,149: Issue with PA 2 where there was extra whitespace 261: general PA3 help
+191797606,Completed,134.126.113.75,4/10/25 15:57,0,105,1,,,,,,,,,US,VA,4/10/25,Thursday,5-7 pm,10,3,1,1,0,5,15 mins,261 p3
+191859074,Completed,134.126.141.39,4/13/25 14:33,0,2,1,,,,,,,,,US,VA,4/13/25,Sunday,3-5 pm Sunday only,6,0,4,0,0,2,20-40 mins,159 - Writing to files w/ invalid types 261 - Error checking for various instruction types
+191859660,Completed,134.126.113.123,4/13/25 15:55,0,64,1,,,,,,,,,US,VA,4/13/25,Sunday,5-7 pm,2,0,1,0,0,1,10-15 mins,159: clarity on instructions and UML 261: infinite while loop in disassemble_rodata
+191860515,Completed,134.126.141.39,4/13/25 18:04,0,53,1,,,,,,,,,US,VA,4/13/25,Sunday,7-9 pm,2,0,1,0,0,1,15 mins,261 - understanding fetch and when to break on invalid 159 - some workspace issues
+191895254,Completed,134.126.113.123,4/14/25 17:58,0,71,1,,,,,,,,,US,VA,4/14/25,Monday,7-9 pm,7,2,3,0,0,2,10-20 mins,149: string formatting 159: calling supers and UML diagram 261: unit tests (when is the pc invalid and stuff)
+191922605,Completed,75.102.137.39,4/15/25 08:57,0,92,1,,,,,,,,,US,VA,4/14/25,Monday,5-7 pm,6,3,0,0,0,3,10-15 minutes,159 - Recursion and PA specs 261 - opcodes and debugging
+191937617,Completed,134.126.141.39,4/15/25 16:03,0,303,1,,,,,,,,,US,VA,4/15/25,Tuesday,5-7 pm,2,1,0,0,0,1,Generally good 5-10 minutes,149 - understanding null cases 261 - condition codes and how to set them
+191940133,Completed,134.126.141.39,4/15/25 18:07,0,120,1,,,,,,,,,US,VA,4/15/25,Tuesday,7-9 pm,4,1,2,0,0,1,generally good time,149 - spacing 159 - general polymorphism 
+191982976,Completed,75.102.137.39,4/16/25 17:43,0,20,1,,,,,,,,,US,VA,4/15/25,Tuesday,9-11 pm,0,0,0,0,0,0,,
+191986168,Completed,73.147.171.132,4/16/25 20:03,0,27,1,,,,,,,,,US,VA,4/16/25,Wednesday,9-11 pm,1,1,0,0,0,0,5 mins,149: Issue with doc strings
+192012370,Completed,134.126.113.75,4/17/25 16:04,0,55,1,,,,,,,,,US,VA,4/17/25,Thursday,5-7 pm,3,1,0,0,0,2,,261 p4 condition codes
+192013323,Completed,134.126.113.88,4/17/25 18:03,0,58,1,,,,,,,,,US,VA,4/17/25,Thursday,7-9 pm,2,1,0,0,0,1,10-15 minutes,CS261 - P4 overflow flag for OPQ
+192049926,Completed,134.126.141.39,4/20/25 14:00,0,3,1,,,,,,,,,US,VA,4/20/25,Sunday,3-5 pm Sunday only,1,0,1,0,0,0,10 minutes,159 - VS code issues w/ Java extension (not updated); implementing assignment UML diagrams
+192050521,Completed,134.126.141.39,4/20/25 15:56,0,14,1,,,,,,,,,US,VA,4/20/25,Sunday,5-7 pm,0,0,0,0,0,0,,
+192051153,Completed,2600:1003:b11f:8174:3529:49d0:e1b1:b201,4/20/25 17:59,0,30,1,,,,,,,,,US,MD,4/20/25,Sunday,7-9 pm,0,0,0,0,0,0,0,none
+192076408,Completed,134.126.113.109,4/21/25 16:06,0,184,1,,,,,,,,,US,VA,4/21/25,Monday,5-7 pm,4,0,0,0,0,4,10-20 minutes,261 - p4 and using the Debug execute to show flags
+192077981,Completed,134.126.113.123,4/21/25 17:55,0,25,1,,,,,,,,,US,VA,4/21/25,Monday,7-9 pm,1,0,0,0,0,1,20 mins,"261: the steps in fetch, decode, etc."
+192115179,Completed,134.126.141.39,4/22/25 16:12,0,428,1,,,,,,,,,US,VA,4/22/25,Tuesday,5-7 pm,6,0,0,0,0,6,Generally a good amount of time 10-15 minutes ,"261 - Issues with accessing value held in a register, freeing memory, error checking with conditionals, decode/execute within p4-skeleton "
+192116946,Completed,134.126.141.39,4/22/25 18:05,0,159,1,,,,,,,,,US,VA,4/22/25,Tuesday,7-9 pm,3,0,0,0,0,3,"A bit longer than normal, 15-20 minutes","261 - malloc vs calloc, cpu loop running too many times"
+192147196,Completed,134.126.113.94,4/23/25 17:43,0,73,1,,,,,,,,,US,VA,4/2/25,Wednesday,5-7 pm,5,1,2,0,0,2,25 mins,
+192147196,Completed,134.126.113.94,4/23/25 17:43,0,73,2,,,,,,,,,US,VA,,Wednesday,7-9 pm,,,,,,,,
+192147228,Completed,134.126.113.94,4/23/25 17:45,0,42,1,,,,,,,,,US,VA,4/2/25,Wednesday,7-9 pm,8,5,2,0,0,1,,
+192147243,Completed,134.126.113.94,4/23/25 17:46,0,31,1,,,,,,,,,US,VA,4/9/25,Wednesday,5-7 pm,4,2,0,0,0,2,,
+192147255,Completed,134.126.113.94,4/23/25 17:46,0,31,1,,,,,,,,,US,VA,4/9/25,Wednesday,7-9 pm,5,2,0,0,0,3,,
+192147270,Completed,134.126.113.94,4/23/25 17:47,0,36,1,,,,,,,,,US,VA,4/16/25,Wednesday,5-7 pm,3,3,0,0,0,0,30 mins,
+192147294,Completed,134.126.113.94,4/23/25 17:47,0,25,1,,,,,,,,,US,VA,4/16/25,Wednesday,7-9 pm,2,2,0,0,0,0,40 mins,
+192147316,Completed,134.126.113.94,4/23/25 17:48,0,49,1,,,,,,,,,US,VA,4/23/25,Wednesday,5-7 pm,5,2,0,0,0,3,35 mins,PA 4 from 261 Valgrind issues
+192149804,Completed,73.147.171.132,4/23/25 20:15,0,122,1,,,,,,,,,US,VA,4/23/25,Wednesday,9-11 pm,1,1,0,0,0,0,25 minutes,149: understanding json
+192183376,Completed,134.126.113.75,4/24/25 16:30,0,107,1,,,,,,,,,US,VA,4/24/25,Thursday,5-7 pm,8,2,1,0,0,5,40 mins,261 P4 iotrap
+192187410,Completed,2605:ad80:20:2449:6c00:6d2d:a569:33ff,4/24/25 19:01,0,158,1,,,,,,,,,US,VA,4/24/25,Thursday,9-11 pm,5,1,0,0,1,3,20 mins,CS240 - getting started on huffman CS261 - P4 IOTrap
+192188395,Completed,2605:ad80:20:2449:6c00:6d2d:a569:33ff,4/24/25 20:01,0,3593,1,,,,,,,,,US,VA,4/24/25,Thursday,9-11 pm,0,0,0,0,0,0,0,None
+192247547,Completed,134.126.141.39,4/27/25 16:42,0,1,1,,,,,,,,,US,VA,4/27/25,Sunday,5-7 pm,11,0,4,0,3,4,30-60 mins,159 - File I/O; issues with precision 240 - Hash table issues 261 - Memory writeback for stack push/pull
+192248062,Completed,134.126.141.39,4/27/25 17:59,0,112,1,,,,,,,,,US,VA,4/27/25,Sunday,7-9 pm,3,0,0,0,1,2,10-20 minutes,240 - hash lab issue with division 261 - p4 memcpy usage
+192285593,Completed,134.126.113.123,4/28/25 15:58,0,61,1,,,,,,,,,US,VA,4/28/25,Monday,5-7 pm,12,1,7,0,2,2,10-15 mins,159: interpolate 240: compareTo in Huffman & encoding 261: gdb
+192287687,Completed,134.126.113.109,4/28/25 18:01,0,78,1,,,,,,,,,US,VA,4/28/25,Monday,7-9 pm,8,0,8,0,0,0,10-20 minutes,159 - Hw9 pretty hard
+192289443,Completed,73.99.81.37,4/28/25 20:00,0,67,1,,,,,,,,,US,VA,4/28/25,Monday,9-11 pm,4,0,3,0,1,0,20 mins,159: failing tests in hw9 240: understanding how to create a huffman tree
+192321851,Completed,134.126.141.39,4/29/25 16:23,0,336,1,,,,,,,,,US,VA,4/29/25,Tuesday,5-7 pm,9,4,1,0,1,3,"Longer than usually, 261 stuff","149 - file vs filename, JSON, how to test, running tests in test file 240 - file path with file object 261 - printing memory address, gdb issues, unsigned vs sign, resetting flags"
+192323587,Completed,134.126.141.39,4/29/25 18:03,0,194,1,,,,,,,,,US,VA,4/29/25,Tuesday,7-9 pm,5,2,0,0,0,3,Generally longer than normal 25-35 min,"149 - writing tests, all-inclusive, starting how to do, how to finish 261 - issues with register pointers, needed to accept invalid rb for push, pop, rmmovq and mrmovq"
+192325275,Completed,73.99.81.37,4/29/25 20:04,0,20,1,,,,,,,,,US,VA,4/29/25,Tuesday,9-11 pm,0,0,0,0,0,0,0,none
+192369791,Completed,73.99.81.37,4/30/25 20:04,0,150,1,,,,,,,,,US,VA,4/30/25,Wednesday,9-11 pm,2,0,0,0,1,1,15 mins,240 - huffman tree one byte test 261 - issues with B level tests revolving around storing and reading memory
+192396846,Completed,2605:ad80:20:2449:2d71:b4b8:f55:d2db,5/1/25 18:41,0,26,1,,,,,,,,,US,VA,5/1/25,Thursday,7-9 pm,2,0,0,0,0,2,15 mins,CS261 - IOTrap
+192398179,Completed,2605:ad80:20:2449:2d71:b4b8:f55:d2db,5/1/25 20:18,0,60,1,,,,,,,,,US,VA,5/1/25,Thursday,9-11 pm,1,0,0,0,0,1,15 mins,CS261 - Lab25
+192455364,Completed,134.126.141.39,5/4/25 14:19,0,2,1,,,,,,,,,US,VA,5/4/25,Sunday,3-5 pm Sunday only,3,0,2,0,2,0,15-20 mins,159 - File I/O + confusion on homework specs 240 - compareTo method of HuffmanBaseNode; casting issues
+192456277,Completed,134.126.113.123,5/4/25 15:56,0,44,1,,,,,,,,,US,VA,5/4/25,Sunday,5-7 pm,10,2,6,0,2,0,15-30 mins,240: huffman 261: recursion
+192457366,Completed,134.126.113.86,5/4/25 18:05,0,123,1,,,,,,,,,US,VA,5/4/25,Sunday,7-9 pm,9,2,4,0,3,0,15 minutes,149: PA3 issues with accessing tuples 159: gradescope issues and recursion help 240: huffman tree encoding
+192486557,Completed,134.126.141.39,5/5/25 16:25,0,126,1,,,,,,,,,US,VA,5/5/25,Monday,5-7 pm,11,6,1,0,3,1,10-15 minutes,149 - Building Dictionaries from Dictionaries 159 - Recursion 240 - Recursion when building the bit sequence encodings 261 - caching lab
+192488257,Completed,134.126.113.123,5/5/25 17:57,0,49,1,,,,,,,,,US,VA,5/5/25,Monday,7-9 pm,7,2,4,0,1,0,10 mins - 1 hour and a half,149: sets? 159: recursion 240: serialization
+192489992,Completed,2600:1003:b852:ac6e:5859:b5b7:5b47:8cca,5/5/25 20:04,0,142,1,,,,,,,,,US,VA,5/5/25,Monday,9-11 pm,3,2,1,0,0,0,25 mins,149: recursively keeping track of prerequisites 159: understanding when to stop searching in fone drone pa
+192519318,Completed,134.126.141.39,5/6/25 16:28,0,125,1,,,,,,,,,US,VA,5/6/25,Tuesday,5-7 pm,4,3,0,0,1,0,Generally good amount of time 15-20 minutes,"149 - remembering to run tests you already made, json writing, over reliance on chat coding 240 - what to do with files with one one byte"
+192521697,Completed,134.126.141.39,5/6/25 18:08,0,256,1,,,,,,,,,US,VA,5/6/25,Tuesday,7-9 pm,8,6,1,0,1,0,"longer than normal, 30-45 minutes, but didn't have a lot of people","149 - understanding sets for the pa, text wrapper and fixing AI code 159 - recursion HW 240 - file sizes of one "
+192523944,Completed,73.99.81.37,5/6/25 19:56,0,44,1,,,,,,,,,US,VA,5/6/25,Tuesday,9-11 pm,0,0,0,0,0,0,None,None
