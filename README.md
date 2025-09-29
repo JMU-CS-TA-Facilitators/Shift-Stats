@@ -24,3 +24,4 @@ Stats of TA Lab Hours attendance
 have this thing attempt to approximate the response rate
 
 need to $
+

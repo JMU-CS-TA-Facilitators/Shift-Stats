@@ -1,0 +1,73 @@
+﻿Data Export Generated on Mon Sep 29 06:42:47 PDT 2025,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Survey ID 12435362,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dashboard Name My Dashboard,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Response ID,Response Status,IP Address,Timestamp (mm/dd/yyyy),Duplicate,Time Taken to Complete (Seconds),Seq. Number,External Reference,shift,lift,tift,biffed,Custom Variable 5,Respondent Email,Email List,Country Code,Region,What is the date of the shift you are reporting for?,Please choose the day of the week.,Please enter the time slot.,Approximately how many times did you help a student during your shift?,How many CS 149 students?,How many CS 159 Students?,How many CS 227 Students?,How many CS 240 Students?,How many CS 261 Students?,Comment on how long TAs generally spent with a given student during your shift.,What were the most common problems being addressed. Ideally these would be prefaced with the course number.
+195881539,Completed,134.126.141.39,8/25/25 16:08,0,3396,1,,,,,,,,,US,VA,8/25/25,Monday,5-7 pm,2,2,0,0,0,0,15-30 minutes,understanding 149 Homework 1.4 
+195884070,Completed,134.126.141.39,8/25/25 17:59,0,6609,1,,,,,,,,,US,VA,8/25/25,Monday,7-9 pm,1,1,0,0,0,0,,CS 149: Print functionality and textbook grading questions 
+195917011,Completed,134.126.141.39,8/26/25 16:07,0,374,1,,,,,,,,,US,VA,8/26/25,Tuesday,5-7 pm,7,3,0,0,4,0,Generally good amount of time 5-15 minutes,"149 - input argument, virtual environment setup with ruff, 240 - setting up testing with junit"
+195922446,Completed,2605:ad80:2f:a822:99a9:bb83:12ba:d49a,8/26/25 19:59,0,1677,1,,,,,,,,,US,VA,8/26/25,Tuesday,9-11 pm,0,0,0,0,0,0,,
+195944219,Completed,73.152.182.199,8/27/25 10:39,0,52,1,,,,,,,,,US,VA,8/26/25,Tuesday,7-9 pm,4,1,0,0,3,0,10 mins,Cs240- iterators
+195954101,Completed,134.126.141.39,8/27/25 16:08,0,1729,1,,,,,,,,,US,VA,8/27/25,Wednesday,5-7 pm,3,1,1,0,0,0,between 5-15 minutes,149 was a gradescope formatting issue and 159 was about returning a boolean value without an if statement (they hadn't learned it in class yet)
+195960954,Completed,134.126.141.39,8/27/25 17:58,0,6457,1,,,,,,,,,US,VA,8/27/25,Wednesday,7-9 pm,9,9,0,0,0,0,,149: Using two print statements and getting the second print statements output on the same line as the first print (end parameter for print function) 149: explaining what variables are (use visual tools for these) 149: printing variables (esp. why not to use '' around the variable names in print) 149: understanding what docstrings are 
+195962950,Completed,204.111.113.108,8/27/25 20:03,0,101,1,,,,,,,,,US,VA,8/27/25,Wednesday,9-11 pm,1,1,0,0,0,0,20 minutes,149 - Fixing SyntaxErrors
+195990469,Completed,134.126.141.39,8/28/25 15:58,0,717,1,,,,,,,,,US,VA,8/28/25,Thursday,5-7 pm,1,0,0,0,1,0,2 minutes,Inner class (iterator definition); student wrote code that was floating in attribute area and not in the body of a method.
+195992585,Completed,134.126.141.39,8/28/25 17:56,0,66,1,,,,,,,,,US,VA,8/28/25,Thursday,7-9 pm,0,0,0,0,0,0,0 minutes,N/A
+195994259,Completed,2605:ad80:2f:a822:9c15:ac5:dd0c:51aa,8/28/25 19:45,0,47,1,,,,,,,,,US,VA,8/28/25,Thursday,9-11 pm,0,0,0,0,0,0,0 minutes,n/a
+196044393,Completed,134.126.141.39,8/31/25 14:02,0,420,1,,,,,,,,,US,VA,8/31/25,Sunday,3-5 pm Sunday only,1,1,0,0,0,0,Longer than usually ~15 minutes,149 - Understanding gradescope errors message and style guides
+196045219,Completed,134.126.141.39,8/31/25 15:59,0,31,1,,,,,,,,,US,VA,8/31/25,Sunday,5-7 pm,0,0,0,0,0,0,0 minutes,n/a
+196046095,Completed,134.126.141.39,8/31/25 17:57,0,7231,1,,,,,,,,,US,VA,8/31/25,Sunday,7-9 pm,0,0,0,0,0,0,,
+196048048,Completed,134.126.113.98,8/31/25 22:35,0,28,1,,,,,,,,,US,VA,8/31/25,Sunday,9-11 pm,0,0,0,0,0,0,na,na
+196074416,Completed,134.126.141.39,9/1/25 15:59,0,196,1,,,,,,,,,US,VA,9/1/25,Monday,5-7 pm,2,2,0,0,0,0,under 15 minutes,"One student had a formatting issue with a 149 lab, the other student was trying to understand how to print more than one decimal place for a float number in python for a homework assignment,"
+196076605,Completed,134.126.141.39,9/1/25 17:51,0,7097,1,,,,,,,,,US,VA,9/1/25,Monday,7-9 pm,0,0,0,0,0,0,,
+196102574,Completed,134.126.113.89,9/2/25 15:59,0,79,1,,,,,,,,,US,VA,9/2/25,Tuesday,5-7 pm,0,0,0,0,0,0,,
+196104596,Completed,134.126.113.96,9/2/25 17:59,0,36,1,,,,,,,,,US,VA,9/2/25,Tuesday,7-9 pm,0,0,0,0,0,0,0 mins,None
+196106777,Completed,2605:ad80:2f:a822:c1f:4f5:e384:7faa,9/2/25 19:51,0,716,1,,,,,,,,,US,VA,9/2/25,Tuesday,9-11 pm,0,0,0,0,0,0,,
+196138203,Completed,134.126.141.39,9/3/25 16:14,0,189,1,,,,,,,,,US,VA,9/3/25,Wednesday,5-7 pm,5,5,0,0,0,0,less than 15 minutes ,"Lots of gradescope issues, either with the tests on gradescope not being correct or the student had incorrect ouput."
+196139563,Completed,134.126.141.39,9/3/25 18:00,0,2264,1,,,,,,,,,US,VA,9/3/25,Wednesday,7-9 pm,3,4,0,0,3,0,15-25 min,240: issues with time complexity & iterators 149: issues with gradescope (different professors having different specifications/testers) & various gradescope issues 
+196163915,Completed,134.126.141.39,9/4/25 16:12,0,923,1,,,,,,,,,US,VA,9/4/25,Thursday,5-7 pm,1,1,1,0,1,0,~15 minutes,149: Gradescope style issues (separate from ruff issues). 159: Strange errors with Java in VSCode. 240: Explaining how to look at code and come up with a general analysis of runtime from code.
+196165199,Completed,134.126.141.39,9/4/25 18:01,0,115,1,,,,,,,,,US,VA,9/4/25,Thursday,7-9 pm,1,0,0,0,1,0,Barely 5 minutes.,Explaining time complexity
+196166395,Completed,73.152.182.199,9/4/25 20:00,0,632,1,,,,,,,,,US,VA,9/4/25,Thursday,9-11 pm,0,0,0,0,0,0,0,None
+196212481,Completed,134.126.141.39,9/7/25 14:01,0,751,1,,,,,,,,,US,VA,9/7/25,Sunday,3-5 pm Sunday only,0,0,0,0,0,0,N/A,N/A
+196213196,Completed,134.126.141.39,9/7/25 15:59,0,119,1,,,,,,,,,US,VA,9/7/25,Sunday,5-7 pm,0,0,0,0,0,0,0 minutes,n/a :(
+196213919,Completed,134.126.141.39,9/7/25 17:59,0,131,1,,,,,,,,,US,VA,9/7/25,Sunday,7-9 pm,0,0,0,0,0,0,0 minutes,n/a :(
+196214819,Completed,134.126.113.98,9/7/25 20:01,0,26,1,,,,,,,,,US,VA,9/7/25,Sunday,9-11 pm,0,0,0,0,0,0,NA,NA
+196239217,Completed,134.126.141.39,9/8/25 15:58,0,2,1,,,,,,,,,US,VA,9/8/25,Monday,5-7 pm,0,0,0,0,0,0,N/A,N/A
+196241087,Completed,134.126.141.39,9/8/25 17:59,0,6669,1,,,,,,,,,US,VA,9/8/25,Monday,7-9 pm,2,0,0,0,2,0,One TA traded off with me and spent majority of his shift working with one person,CS 240: Remove methods and iterators lab
+196279671,Completed,134.126.113.89,9/9/25 15:59,0,288,1,,,,,,,,,US,VA,9/9/25,Tuesday,5-7 pm,2,1,0,0,0,1,10 minutes,
+196282226,Completed,134.126.141.39,9/9/25 18:09,0,198,1,,,,,,,,,US,VA,9/9/25,Tuesday,7-9 pm,7,5,0,0,0,2,15-30 mins,"149 - if conditions, general python syntax 261 - saving file != compiling and getopt() usage"
+196311187,Completed,2605:ad80:2f:a822:2013:9a1b:89fd:6b2e,9/9/25 19:53,0,596,1,,,,,,,,,US,VA,9/9/25,Tuesday,9-11 pm,0,0,0,0,0,0,,
+196382395,Completed,134.126.141.39,9/10/25 16:23,0,238,1,,,,,,,,,US,VA,9/10/25,Wednesday,5-7 pm,4,3,0,0,0,1,between 5 minutes and 30+,"One 149 student came in for quiz help/review, another 149 student was having an issue with gradescope formatting, a 261 student needed help with understanding Input and getopt stuff :D"
+196424254,Completed,134.126.141.39,9/10/25 18:00,0,3097,1,,,,,,,,,US,VA,9/10/25,Wednesday,7-9 pm,8,8,0,0,0,0,it's either 15-20 mins or an hour,"149: Gradescope issues, variable nuances (knowing it can be used everywhere)"
+196493090,Completed,134.126.141.39,9/11/25 16:04,0,193,1,,,,,,,,,US,VA,9/11/25,Thursday,5-7 pm,3,1,1,0,0,1,20 minutes,149: Docstrings on functions and splitting large functions into more 'atomic' functions that handle a specific task 159: CodingBat 261: Issues related to getopt as well as asking about gdb.
+196496985,Completed,134.126.141.39,9/11/25 18:00,0,82,1,,,,,,,,,US,VA,9/11/25,Thursday,7-9 pm,2,2,0,0,0,2,~10-15 min,"gdb & uninitialized memory (261), gradescope reading errors (149)"
+196500117,Completed,73.152.182.199,9/11/25 20:00,0,21,1,,,,,,,,,US,VA,9/11/25,Thursday,9-11 pm,0,0,0,0,0,0,0,None
+196568307,Completed,134.126.141.39,9/14/25 14:00,0,269,1,,,,,,,,,US,VA,9/14/25,Sunday,3-5 pm Sunday only,1,1,0,0,0,0,Longer than usually ~15 minutes,149 - Understanding docstrings requirements for functions
+196569592,Completed,134.126.141.39,9/14/25 15:58,0,610,1,,,,,,,,,US,VA,9/14/25,Sunday,5-7 pm,0,0,0,0,0,0,0 minutes,n/a
+196571060,Completed,134.126.141.39,9/14/25 18:00,0,2,1,,,,,,,,,US,VA,9/14/25,Sunday,7-9 pm,1,0,0,0,1,0,5 minutes,240 - Running Java code through VSCode w/ args
+196572597,Completed,134.126.113.98,9/14/25 19:58,0,187,1,,,,,,,,,US,VA,9/14/25,Sunday,9-11 pm,0,0,0,0,0,0,no one here :(,NA
+196605838,Completed,134.126.141.39,9/15/25 16:01,0,670,1,,,,,,,,,US,VA,9/15/25,Monday,5-7 pm,3,2,0,0,0,1,15-20 minutes or so,261 was about understanding where the magic number in p1 came from. 149 was doc strings and understanding mod and floor division.
+196609028,Completed,134.126.141.39,9/15/25 18:00,0,7097,1,,,,,,,,,US,VA,9/15/25,Monday,7-9 pm,8,8,0,0,0,0,30-40 mins,"149: understanding what to do for homeworks and how to even get started, they are very confused about functions "
+196651443,Completed,134.126.113.89,9/16/25 16:00,0,42,1,,,,,,,,,US,VA,9/16/25,Tuesday,5-7 pm,3,3,0,0,0,0,10 minutes,
+196655709,Completed,134.126.141.39,9/16/25 18:15,0,145,1,,,,,,,,,US,VA,9/16/25,Tuesday,7-9 pm,5,4,0,0,0,1,15 - 30 mins,"149 - Python syntax, indexing into arrays with variables, and padding/formatting strings using f-strings 261 - reading an elf_hdr_t data from a FILE into allocated memory"
+196658465,Completed,2605:ad80:2f:a822:bd02:89bb:7a74:5265,9/16/25 20:05,0,126,1,,,,,,,,,US,VA,9/16/25,Tuesday,9-11 pm,3,2,0,0,0,0,,"149: understanding how to do the last part of the hw without using indexing, and return statements with multiple variables"
+196706344,Completed,134.126.141.39,9/17/25 16:13,0,1995,1,,,,,,,,,US,VA,9/17/25,Wednesday,5-7 pm,3,3,0,0,0,0,15-30 minutes,"149 a student was told to come to lab hours to get help on an in class lab that they missed, another student was failing gradescope because they were using input() in there main, another 149 student needed help understanding what a tuple was."
+196709145,Completed,134.126.141.39,9/17/25 17:52,0,5667,1,,,,,,,,,US,VA,9/17/25,Wednesday,7-9 pm,12,8,1,0,2,1,15-30 mins,"149: understanding the math needed for the hw problems, knowing when to use the things they learned in class (%, or other topics) 240: remove method for linked list 261: optind understanding that the last index was wrong"
+196746070,Completed,134.126.141.39,9/18/25 15:58,0,137,1,,,,,,,,,US,VA,9/18/25,Thursday,5-7 pm,0,1,0,0,0,0,5-10 minutes,"149, didn't understand passing arguments to a function"
+196748239,Completed,134.126.141.39,9/18/25 17:56,0,65,1,,,,,,,,,US,VA,9/18/25,Thursday,7-9 pm,1,0,0,0,0,1,5 minutes,261: Understanding argument requirements and getopt syntax.
+196752548,Completed,73.152.182.199,9/18/25 22:29,0,34,1,,,,,,,,,US,VA,9/18/25,Thursday,9-11 pm,0,0,0,0,00,0,n/a,N/a
+196832576,Completed,134.126.141.39,9/21/25 14:02,0,232,1,,,,,,,,,US,VA,9/21/25,Sunday,3-5 pm Sunday only,3,2,0,0,0,1,Generally good amount of time 5-15 minutes,"149 - returning dictionary and using them, storing temporary values 261 - casting pointers to a different kind of pointer"
+196834005,Completed,134.126.113.90,9/21/25 15:59,0,225,1,,,,,,,,,US,VA,9/21/25,Sunday,5-7 pm,1,0,0,0,1,0,about 10 minutes or so,A student was misunderstanding pollLast and getting rid of the tail end
+196837030,Started,134.126.113.98,9/21/25 20:04,0,56,1,,,,,,,,,US,VA,9/21/25,Sunday,9-11 pm,0,0,0,0,0,0,na,na
+196873667,Completed,134.126.113.90,9/22/25 15:54,0,354,1,,,,,,,,,US,VA,9/22/25,Monday,5-7 pm,0,0,0,0,0,0,0 minutes,n/a :(
+196874838,Completed,134.126.113.71,9/22/25 18:08,0,49,1,,,,,,,,,US,VA,9/22/25,Monday,7-9 pm,4,4,0,0,0,0,15-30 mins,149: understanding conditionals and indexing
+196907988,Completed,134.126.141.39,9/23/25 16:01,0,429,1,,,,,,,,,US,VA,9/23/25,Tuesday,5-7 pm,8,8,0,0,0,0,perfect amount 5-10 minutes,"149 - asserts vs prints, gradescope errors, variables, docstrings, HW5 in gernerally "
+196910335,Completed,134.126.141.39,9/23/25 18:19,0,3068,1,,,,,,,,,US,VA,9/23/25,Tuesday,7-9 pm,5,5,0,0,0,0,20-40 minutes,"149 - Calling vs defining functions, knowing which tools/functions/operators to use"
+196912219,Completed,73.152.182.199,9/23/25 20:14,0,682,1,,,,,,,,,US,VA,9/23/25,Thursday,9-11 pm,2,2,0,0,0,0,15 mins,"CS149 - HW5.4 just formatting and the like Also, swapping items in a list"
+196942099,Completed,134.126.113.90,9/24/25 16:04,0,122,1,,,,,,,,,US,VA,9/24/25,Wednesday,5-7 pm,3,3,0,0,0,0,between 5-10 minutes give or take,"Lots of quiz review for their quiz the following day. Understanding how arguments are passed in, and dealing with logical operators and how they work. As well as boolean values."
+196944848,Completed,134.126.141.39,9/24/25 18:02,0,303,1,,,,,,,,,US,VA,9/24/25,Wednesday,7-9 pm,1,2,0,1,0,0,15 minutes,"227: proof techniques, direct proof, proof by contradiction, contrapositive, etc. 149: gradescope issue (error difficult to read, also for TAs), line length issues, practice quiz 2 prep "
+196978442,Completed,134.126.141.39,9/25/25 15:53,0,83,1,,,,,,,,,US,VA,9/25/25,Thursday,5-7 pm,1,0,1,0,0,0,~5 minutes,159: Understanding the point of enums and how to write/use them.
+196980548,Completed,134.126.141.39,9/25/25 18:00,0,6244,1,,,,,,,,,US,VA,9/25/25,Thursday,7-9 pm,9,7,0,2,0,0,30-40 mins,"149: while loops, using the test mod new call, initializing to variable 227: sets, unions, proofs"
+196983064,Completed,2605:ad80:2f:a822:d122:8d07:a762:6a56,9/25/25 19:58,0,536,1,,,,,,,,,US,VA,9/25/25,Thursday,9-11 pm,0,0,0,0,0,0,,
+197054025,Completed,134.126.141.39,9/28/25 14:07,0,322,1,,,,,,,,,US,VA,9/28/25,Sunday,3-5 pm Sunday only,6,6,0,0,0,0,Generally good amount of time 5-15 minutes,"149 - random module, generally iterative design process, logical operator/homework spec "
+197055034,Completed,134.126.113.90,9/28/25 16:02,0,135,1,,,,,,,,,US,VA,9/28/25,Sunday,5-7 pm,4,4,0,0,0,0,at most 45 minutes,"understanding while loop conditions for 6.3, understanding the bounds for 6.3 HW for 149"
+197056029,Completed,134.126.113.80,9/28/25 17:56,0,83,1,,,,,,,,,US,VA,9/28/25,Sunday,7-9 pm,1,0,1,0,0,0,30 mins,"159 - Understanding how to use Arraylists, questions with enums"
