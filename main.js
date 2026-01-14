@@ -90,7 +90,7 @@ async function init() {
       'sanitized-logs/1241-spring24-ta-hours-log-sanitized.csv',
       'sanitized-logs/1248-fall24-ta-hours-log-sanitized.csv',
       'sanitized-logs/1251-spring25-sanitized.csv',
-      'sanitized-logs/1258-fall-25-ta-hours-in-progress-sanitized.csv',
+      'sanitized-logs/1258-fall25-sanitized.csv',
     ];
     const csvText = await Promise.all(defaultData.map(async filename=>(await fetch(filename)).text()))
     console.log('csvText', csvText)
@@ -111,6 +111,7 @@ async function init() {
         );
       });
   })
+  defaultBtn.click()
 }
 
 function csvToChartData(file, dataLabel) {
