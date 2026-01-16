@@ -86,11 +86,11 @@ async function init() {
     ev.stopPropagation();
     const defaultData = [
       // 'sanitized-logs/1231-spring23-ta-hours-log-sanitized.csv', // we don't have info about which course attendees were asking about in s23
-      'sanitized-logs/1238-fall23-ta-hours-log-sanitized.csv',
-      'sanitized-logs/1241-spring24-ta-hours-log-sanitized.csv',
-      'sanitized-logs/1248-fall24-ta-hours-log-sanitized.csv',
-      'sanitized-logs/1251-spring25-sanitized.csv',
       'sanitized-logs/1258-fall25-sanitized.csv',
+      'sanitized-logs/1251-spring25-sanitized.csv',
+      'sanitized-logs/1248-fall24-ta-hours-log-sanitized.csv',
+      'sanitized-logs/1241-spring24-ta-hours-log-sanitized.csv',
+      'sanitized-logs/1238-fall23-ta-hours-log-sanitized.csv',
     ];
     const csvText = await Promise.all(defaultData.map(async filename=>(await fetch(filename)).text()))
     console.log('csvText', csvText)
