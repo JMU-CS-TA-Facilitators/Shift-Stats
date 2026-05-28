@@ -86,6 +86,7 @@ async function init() {
     ev.stopPropagation();
     const defaultData = [
       // 'sanitized-logs/1231-spring23-ta-hours-log-sanitized.csv', // we don't have info about which course attendees were asking about in s23
+      'sanitized-logs/1261-spring26-sanitized.csv',
       'sanitized-logs/1258-fall25-sanitized.csv',
       'sanitized-logs/1251-spring25-sanitized.csv',
       'sanitized-logs/1248-fall24-ta-hours-log-sanitized.csv',
